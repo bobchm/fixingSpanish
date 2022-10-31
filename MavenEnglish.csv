@@ -1,0 +1,3026 @@
+ACC_Weekend,Weekend
+ACC_before8OrAfter5,"Before 8am or After 5pm"
+ACC_cashOnDelivery,C.O.D.
+ACC_constructionSite,"Construction Site"
+ACC_constructionSite_text,"Construction Site"
+ACC_conventionCenter,"Convention Center"
+ACC_dangerousGoods,"Dangerous Goods"
+ACC_declaredValue,"Declared Value"
+ACC_detention,Detention
+ACC_detentionCharge,Detention
+ACC_extraManPower,"Extra Man Power"
+ACC_handlingAndSorting,"Handling and Sorting"
+ACC_hazardousMaterialCharge,"Hazardous Material"
+ACC_hazmat_text,"Hazardous Material"
+ACC_indoor60Ft,"Indoor 60 ft"
+ACC_insideDeliveryCharge,"Inside Delivery"
+ACC_insidePickupCharge,"Inside Pickup"
+ACC_insideService_text,"Inside Service"
+ACC_liftGateCharge,LiftGate
+ACC_liftgate_text,"Lift Gate"
+ACC_limitedAccess,"Limited Access"
+ACC_limitedAccessCharge,"Limited Access"
+ACC_note,"Enter accessorial note"
+ACC_otherAccessorialEditText_hint,"Other Accessorial"
+ACC_privateHouseDelivery,"Private House Delivery"
+ACC_residentialDelivery,"Residential Delivery"
+ACC_residentialPickup,"Residential Pickup"
+ACC_residential_text,Residential
+ACC_segregateAndSort_text,"Segregate and Sort"
+ACC_sortAndSeg,"Sort and Seg"
+ACC_specifyTime,"Specify Waiting Time"
+ACC_tailgate,Tailgate
+ACC_title_text,Accessorials
+ACC_upstairsDel,"Upstairs Delivery"
+ACC_waitingTime,"Waiting Time"
+ACF_account_heading,"Great! Almost Done"
+ACF_account_heading_two,"Please enter the following information to finish creating your Maven account."
+ACF_createAccount,"Create Account"
+ACF_creating,Creating…
+ACF_informationCheck_descDefaultText,"Mobile Number / Email:"
+ACF_informationCheck_descTextEmail,"Email: %1$s"
+ACF_informationCheck_descTextMobile,"Mobile Number: %1$s"
+ACF_informationCheck_headerText,"Is this information correct?"
+ACF_lockIconContentDesc,Privacy
+ACF_passwordReenter_hint,"Retype Password"
+AMF_loading,Loading…
+APICall_addCompanyAsset,https://apigateway.mavenmachines.com/private/mobile/assets/
+APICall_addDrivingTrip,https://apigateway.mavenmachines.com/private/mobile/drivingTrip
+APICall_app_release_notes,https://apigateway.mavenmachines.com/public/mobile/app-version/release-notes?platform=%1$s&fromVersion=%2$s&toVersion=%3$s
+APICall_app_versions_update,https://apigateway.mavenmachines.com/private/mobile/app-version?employeeId=%1$s&platform=%2$s&currentVersion=%3$s
+APICall_createUser,https://apigateway.mavenmachines.com/private/mobile/v1/users
+APICall_eld_accept_reject_or_cancel_admin_edit,https://apigateway.mavenmachines.com/private/mobile/eld/edits/approval
+APICall_eld_check_admin_edit,https://apigateway.mavenmachines.com/private/mobile/eld/edits/pending?employeeId=%s
+APICall_eld_config,https://apigateway.mavenmachines.com/private/mobile/eld/config
+APICall_eld_dataSync,https://apigateway.mavenmachines.com/private/mobile/eld/datasync
+APICall_eld_location,https://apigateway.mavenmachines.com/public/mobile/eld/location?lat=%1$s&lng=%2$s
+APICall_eld_request_admin_edit,https://apigateway.mavenmachines.com/private/mobile/eld/edits/request
+APICall_eld_sendToFMCSA,https://apigateway.mavenmachines.com/private/mobile/eld/send-to-fmcsa
+APICall_eld_suggestedNotes,https://apigateway.mavenmachines.com/private/mobile/eld/suggested-notes?employeeId=%1$s
+APICall_emailHOS,https://apigateway.mavenmachines.com/private/mobile/reports/createHOSReport
+APICall_forgotPassword,https://apigateway.mavenmachines.com/private/mobile/v1/users/forgotPassword
+APICall_getCompanyAssets,https://apigateway.mavenmachines.com/private/mobile/assets?companyId=%1$s&lastUpdated=%2$s&assetType=%3$s
+APICall_getEmployee,https://apigateway.mavenmachines.com/private/mobile/v1/employee?hrId=%1$s&companyId=%2$s
+APICall_getMavenTime,https://apigateway.mavenmachines.com/public/mobile/maventime
+APICall_getPermissions,https://apigateway.mavenmachines.com/private/mobile/v2/employee?employeeId=%1$s
+APICall_getUser,https://apigateway.mavenmachines.com/private/mobile/users/%s
+APICall_login,https://apigateway.mavenmachines.com/private/mobile/v1/users/login
+APICall_logout,https://apigateway.mavenmachines.com/private/mobile/v1/users/logout
+APICall_post,http://api.mavenmachines.com/post
+APICall_resetPassword,https://apigateway.mavenmachines.com/private/mobile/v1/users/resetPassword
+APICall_sendEmail,https://apigateway.mavenmachines.com/private/mobile/emails
+APICall_updateCompanyAsset,https://apigateway.mavenmachines.com/private/mobile/assets/%s
+APICall_updateDriverProfileInformation,https://apigateway.mavenmachines.com/private/mobile/users/%s
+APICall_updateDrivingTrip,https://apigateway.mavenmachines.com/private/mobile/drivingTrip/%s
+APICall_verifySignupCode,https://apigateway.mavenmachines.com/private/mobile/v1/users/verifySignupCode
+AUF_autoSignOutToast,"Automatically logged out due to invalid session"
+AUF_forgot_password,"<u>Forgot your Password?</u>"
+AUF_help_support,"<u>Help & Support</u>"
+AUF_logoutExplanationAutomatic,"You've been automatically logged out."
+AUF_logoutExplanationManual,"You've been logged out."
+AUF_signIn,"Sign In"
+AUF_signingIn,"Signing in…"
+AUTH_FLOW_cancelLogoutButtonText,"Cancel Log Out"
+AUTH_FLOW_drivePromptTitleText,"You're Still In Drive"
+AUTH_FLOW_driveTitleInfoCompletion,Drive
+AUTH_FLOW_dutyStatusChangeNote,"Logged out of device"
+AUTH_FLOW_goOFFLogoutButtonText,"Go OFF DUTY and Log Out"
+AUTH_FLOW_goONLogoutButtonText,"Go ON DUTY and Log Out"
+AUTH_FLOW_goSBLogoutButtonText,"Go in SB and Log Out"
+AUTH_FLOW_loggingOutButtonText,"Logging Out…"
+AUTH_FLOW_onDutyPromptTitleText,"You're Still On Duty"
+AUTH_FLOW_onDutyTitleInfoCompletion,"On Duty"
+AUTH_FLOW_promptInfoText,"Please select a duty status before logging out."
+AUTH_FLOW_remainInDriveLogoutButtonText,"Remain in DRIVE and Log Out"
+AUTH_FLOW_remainOnDutyLogoutButtonText,"Remain ON DUTY and Log Out"
+AU_error_OOPS,"Oops, Something went wrong."
+AU_error_askForHelp,"Oops, Something went wrong.\nTap here to get help."
+AU_error_enterValidEmailPhone,"Please enter a valid email address or phone number."
+AU_error_enterValidPassword,"Please enter a valid password."
+AU_error_httpGone,"Oops, Something went wrong.\nPlease check your internet connection."
+AU_error_invalidEmail,"Please enter a valid email address."
+AU_error_invalidPhoneNumber,"Please enter a valid phone number."
+AU_error_passwordMismatch,"Passwords do not match."
+BCBW_checked,Checked
+BCBW_unchecked,Unchecked
+BSD_title,"Scanning Barcode"
+BSD_warning,"Barcode `%1$s` is not a valid %2$s"
+BSD_warningEmpty,"Barcode is not a valid %1$s"
+CAMFRAG_alignment_overlay_text,"Match Paper to Frame"
+CAMFRAG_alignment_overlay_text,"Match Paper to Frame"
+CAMFRAG_detection_result_bad_angle,"Bad angle"
+CAMFRAG_detection_result_bad_angle,"Bad angle"
+CAMFRAG_detection_result_dark,"Too dark"
+CAMFRAG_detection_result_dark,"Too dark"
+CAMFRAG_detection_result_noisy,"Too noisy"
+CAMFRAG_detection_result_noisy,"Too noisy"
+CAMFRAG_detection_result_nothing,"Can't find doc"
+CAMFRAG_detection_result_nothing,"Can't find doc"
+CAMFRAG_detection_result_off_center,"Off center"
+CAMFRAG_detection_result_off_center,"Off center"
+CAMFRAG_detection_result_ok,OK
+CAMFRAG_detection_result_ok,OK
+CAMFRAG_detection_result_perspective,"Bad perspective"
+CAMFRAG_detection_result_perspective,"Bad perspective"
+CAMFRAG_detection_result_small,"Move closer"
+CAMFRAG_detection_result_small,"Move closer"
+CAMFRAG_error_camera_connect,"Unable to connect to the camera at this time."
+CAMFRAG_error_camera_connect,"Unable to connect to the camera at this time."
+CAMFRAG_error_request_permission,"Unable to obtain camera permissions at this time."
+CAMFRAG_error_request_permission,"Unable to obtain camera permissions at this time."
+CAMFRAG_hold_device_still,"Taking photo. Hold device still."
+CAMFRAG_hold_device_still,"Taking photo. Hold device still."
+CAMFRAG_instruction,"Take photo of %1$s"
+CAMFRAG_instruction,"Take photo of %1$s"
+CAMFRAG_processing,Processing…
+CAMFRAG_processing,Processing…
+CETB_editButtonText,Edit
+CF_barcodeTypeProNumber,"PRO Number"
+CF_barcodeTypeProNumber,"PRO Number"
+CF_invalidBarcodesFound,"Invalid %1$s found"
+CF_invalidBarcodesFound,"Invalid %1$s found"
+CF_noBarcodesFound,"No %1$s found"
+CF_noBarcodesFound,"No %1$s found"
+CF_validBarcodesFound,"%1$s %2$s found"
+CF_validBarcodesFound,"%1$s %2$s found"
+CL_autoLogoutPopup_buttonText,Dismiss
+CL_autoLogoutPopup_text,"You've been automatically put off duty for having a shift lasting longer than 24 hours"
+CL_breakFinishedAlert_audio,"Break timer reached zero. If finished, please press the finish button to mark your break completed"
+CL_breakFinishedAlert_inapp,"Break time complete\nPress finish button"
+CL_breakFinishedAlert_notification,"Break complete. Click to open app and mark finished."
+CL_halfHourAlert_meal_audio,"Hi, this is your Maven rest reminder. Regulations call for a 30 minute break in the next half hour. Drive safe."
+CL_halfHourAlert_meal_audio_first,"Hi, this is your Maven rest reminder. Regulations call for a 30 minute break in the next half hour. Drive safe."
+CL_halfHourAlert_meal_inapp,"Meal Required\n30-Minute Meal Break"
+CL_halfHourAlert_meal_inapp_first,"Meal Required\n30-Minute Meal Break"
+CL_halfHourAlert_meal_notification,"Stop for 30-Minute Meal Break soon"
+CL_halfHourAlert_meal_notification_first,"Stop for 30-Minute Meal Break soon"
+CL_halfHourAlert_ten_audio,"Hi, this is your Maven rest reminder. Regulations call for a 10 minute break in the next half hour.  Drive safe."
+CL_halfHourAlert_ten_audio_first,"Hi, this is your Maven rest reminder service. My job is to inform you to take your paid 10 minute break. This alert marks thirty minutes before you hit 4 hours of service. Drive safe."
+CL_halfHourAlert_ten_inapp,"Rest Required\n10-Min Paid Break"
+CL_halfHourAlert_ten_inapp_first,"30 Minutes left\nBreak soon!"
+CL_halfHourAlert_ten_notification,"Stop for 10-minute Break soon."
+CL_halfHourAlert_ten_notification_first,"CA Law requires Break"
+CL_help_dialog_title,"The California Labor Law"
+CL_help_text_1,"The CA Labor Law (C. 226. 7) requires you to take a 10 minute paid break and a 30 minute break every 4 and 5 hours respectively while you are on duty.\n\nWith Maven, staying compliant and tracking these breaks is easy. Alerts are sent throughout the day to help you manage these rest requirements."
+CL_help_text_2,"To start your shift, press and hold the ""Go On Duty"" button for 2 seconds. Immediately, two timers count down the time left before your 10 or 30 minute breaks."
+CL_help_text_3,"To take a break, slide up the timer bar and press and hold the respective ""Take Break"" button to confirm your break."
+CL_help_text_4,"Now a timer shows the remaining break time. To finish the break, at any time press and hold the ""Finish Break"" button for 2 seconds."
+CL_help_text_5,"To Go Off Duty, slide the timer bar up and press and hold the ""Go Off Duty"" button for 2 seconds. Finally, you'll be taken to your daily summary to review your day."
+CL_help_text_6,"Drive Safe!"
+CL_onDutyPopup_buttonText1,"Continuing Work Day"
+CL_onDutyPopup_buttonText2,"New Work Day"
+CL_onDutyPopup_text,"Are you continuing your previous work day or starting a new one?"
+CL_stoppedDrivingAlert_audio,"Hi, this is your Maven rest reminder. Is now a good time to start your required 10 minute break? If not, I can remind you later."
+CL_stoppedDrivingAlert_audio_first,"	Hi, welcome to your new Maven Co-Pilot. I am here to help you comply with California labor law. The law states you must take a 10 minute break in the first 4 hours of service. Sensing your truck is stopped, I will briefly remind you this may be an efficient break time. Drive safe."
+CL_stoppedDrivingAlert_inapp,"Maven Break Alert\n10 min Rest Now?"
+CL_stoppedDrivingAlert_inapp_first,"CA Law says 10 min\nBreak in first 4 hrs\nBreak Now?"
+CL_stoppedDrivingAlert_notification,"Good time for a 10-minute break?"
+CL_stoppedDrivingAlert_notification_first,"Take 10-minute Break? CA Law requirement."
+CL_twoHourAlert_audio,"Hi, this is your Maven Co-Pilot with an early reminder. You have two hours remaining to complete your paid 10 minute break. Drive safe."
+CL_twoHourAlert_audio_first,"Hi, welcome to your new Maven Co-Pilot. I am here to help you comply with California labor law. The law states you must take a 10 minute break in the first 4 hours of service. You have been on duty for two hours, and so, have two hours left to complete a 10 minute paid break. Drive safe."
+CL_twoHourAlert_inapp,"On duty = 2 hrs\nPlan a 10-minute break!"
+CL_twoHourAlert_inapp_first,"CA Law says 10-minute\nBreak in first 4 hrs\nPlan a break!"
+CL_twoHourAlert_notification,"Friendly Maven break reminder"
+CL_twoHourAlert_notification_first,"Plan a 10-minute Break by CA Law"
+CSTB_saveButtonText,Save
+CUDEF_drivesCountAndMilesText,"%1$d movements  %2$.2f miles"
+CUDEF_previousEightDays,"Previous 8 days"
+CUDEI_claimedButtonText,Claimed
+CUTF_backButtonText,Back
+CUTF_errorClaimingMovements,"Error claiming the movements for %s"
+CUTF_errorConflictingMovements,"Error! You have a conflicting movement."
+CUTF_errorFetchingMovements,"You must be online to claim vehicle movements."
+CUTF_toolbarTitleText,"Claim Unassigned Trips"
+CUTF_tripDistanceText,"%1$.2f mi."
+CUTF_tripLocationText,"%1$s to %2$s"
+CUTF_tripTimeText,"%1$s — %2$s"
+CW_trip_tripActiveCompletedOnTitle,"TRIP COMPLETED on"
+CW_trip_tripActiveCompletedTitle,"TRIP COMPLETED:"
+CW_trip_tripActiveTimeTitle,"ACTIVE TIME:"
+CW_trip_tripStartedOnTitle,"TRIP STARTED on"
+CW_trip_tripStartedTitle,"TRIP STARTED:"
+CW_workflow_action_accept_trip,"Accept Trip"
+CW_workflow_action_arrive_stop,"Arrive Stop"
+CW_workflow_action_depart_stop,"Depart Stop"
+CW_workflow_action_end_trip,"Complete Trip"
+CW_workflow_action_skip_stop,"Skip Stop"
+CW_workflow_action_start_trip,"Start Trip"
+CW_workflow_action_submit_form,"Submit Form"
+CW_workflow_action_swap,"Complete Swap"
+DD_notificaiton_speech_lunch_stop_added,"New Message │ %1$s. Lunch Stop added."
+DD_notification_speech_close_time,"Close time %1$s."
+DD_notification_speech_new_message,"New message %1$s. From %2$s: %3$s"
+DD_notification_speech_route_added,"New Message │ %1$s. New route added."
+DD_notification_speech_route_rearranged,"New Message │ %1$s. Route rearranged."
+DD_notification_speech_stop_added,"New message │ %1$s. %2$s added. %3$s. %4$s %5$s."
+DD_notification_speech_stop_cancelled,"New message │ %1$s. %2$s canceled. %3$s. %4$s %5$s."
+DD_notification_speech_stop_modified,"New message │ %1$s. %2$s modified. %3$s. %4$s %5$s."
+DD_notification_speech_stop_removed,"New message │ %1$s. %2$s removed. %3$s. %4$s %5$s."
+DD_notification_speech_stop_split,"New message │ %1$s. %2$s split. %3$s. %4$s %5$s."
+DD_notification_speech_target_type_delivery,delivery
+DD_notification_speech_target_type_pickup,pickup
+DL_completeStop,"To use Maven, bring the vehicle to a complete stop."
+DL_inMotion,"Vehicle In Motion"
+DOTDHF_carrierInformation_USDOTNumber,"USDOT #"
+DOTDHF_carrierInformation_carrierNameKey,Carrier
+DOTDHF_carrierInformation_title,Carrier
+DOTDHF_currentDriveInformation_currentLocationKey,"Current Location"
+DOTDHF_currentDriveInformation_dataDiagnosticKey,"Driver’s Data Diagnostic Status"
+DOTDHF_currentDriveInformation_exemptDriverStatusKey,"Exempt Driver Status"
+DOTDHF_currentDriveInformation_malfunctionIndicatorKey,"ELD Malfunction Indicators"
+DOTDHF_currentDriveInformation_milesTodayKey,"Miles Today"
+DOTDHF_currentDriveInformation_shippingIdKey,"Shipping ID"
+DOTDHF_currentDriveInformation_title,"Current Drive"
+DOTDHF_currentDriveInformation_unidentifiedDrivingRecordsKey,"Unidentified Driving Records"
+DOTDHF_dateInformation_24PeriodStartingTimeKey,"24-Period Starting Time"
+DOTDHF_dateInformation_dateKey,"Record Date"
+DOTDHF_dateInformation_timezoneKey,"Time Zone"
+DOTDHF_dateInformation_title,Date
+DOTDHF_driverInformation_coDriverNameKey,"Co-Driver Name"
+DOTDHF_driverInformation_driverIdKey,"Driver ID"
+DOTDHF_driverInformation_driverLicenseNumberKey,"Driver License Number"
+DOTDHF_driverInformation_driverLicenseStateKey,"Driver License State"
+DOTDHF_driverInformation_driverNameKey,"Driver Name"
+DOTDHF_driverInformation_title,Driver
+DOTDHF_eldInformation_eldIdKey,"ELD ID"
+DOTDHF_eldInformation_eldProviderKey,"ELD Provider"
+DOTDHF_eldInformation_title,ELD
+DOTDHF_tractorInformation_currentEngineHoursKey,"Start - End Engine Hours"
+DOTDHF_tractorInformation_currentOdometerKey,"Start - End Odometer"
+DOTDHF_tractorInformation_title,Tractor
+DOTDHF_tractorInformation_truckTractorIdKey,"Truck Tractor ID"
+DOTDHF_tractorInformation_truckTractorVINKey,"Truck Tractor VIN"
+DOTDHF_trailerInformation_title,Trailer
+DOTDHF_trailerInformation_trailerIdKey,"Trailer ID"
+DOTH_emailHOSLogDesc_text,"Email a PDF log export to any email address for inspection."
+DOTH_emailHOSLogHeader_text,"Email a PDF Log Export"
+DOTH_emailHOSLogsButton_text,"Send PDF Log File"
+DOTH_emailHOSLogs_text,"EMAIL HOS LOGS"
+DOTH_fmcsaImage_contentDesc,FMCSA
+DOTH_headerDescription,"Please select a method for an inspector to review your logs. "
+DOTH_inspectLogsOnDeviceButton_text,"Inspect Logs on Device"
+DOTH_inspectLogsOnDeviceDesc_text,"Display logs on device for the inspector to view."
+DOTH_inspectLogsOnDeviceHeader_text,"View Logs on Device"
+DOTH_inspectionMode,"ELD Roadside Inspection"
+DOTH_sendLogsButton_text,"Send Secure Log Data File"
+DOTH_sendLogsDescText_text,"When you send logs, Maven Machines will securely upload your previous eight days of log information to the FMCSA. The inspector will then search for your information based on your name and driver information."
+DOTH_sendLogsDesc_text,"Send a secure file for an inspector to view on their device."
+DOTH_sendLogsHeader_text,"Send Secure Log File (USA)"
+DOTIL_driverInformation_driverId,"Driver ID"
+DOTIL_driverInformation_driverLicenseNumber,"Driver License Number"
+DOTIL_driverInformation_driverLicenseState,"Driver License State"
+DOTIL_driverInformation_driverName,"Driver Name"
+DOTIL_driverInformation_title,"Driver Information"
+DOTIL_eldInformation_eldId,"ELD ID"
+DOTIL_eldInformation_eldManufacturer,"ELD Manufacturer"
+DOTIL_eldInformation_title,"ELD Information"
+DOTIL_inspectionItem_notAvailable,-
+DOTLCF_dailyHeaderTab_title,"DAILY HEADER"
+DOTLCF_eventsTab_title,EVENTS
+DOTLCF_topBarLayout_arrowLeftDesc,Previous
+DOTLCF_topBarLayout_arrowRightDesc,Next
+DOTSLR_inspectLogsButton_text,"INSPECT LOGS ON DEVICE"
+DOTSLR_resentLogsButton_text,"RESEND LOGS"
+DOTSLR_sendingFailedErrorText_410,"Error 410 - The device is not able to connect to the internet."
+DOTSLR_sendingFailedErrorText_all,"Error %1$d - %2$s"
+DOTSLR_sendingFailedErrorText_default,"Oops, Something went wrong."
+DOTSLR_sendingFailedErrorText_otherMessage,"Sorry the request could not be completed at this time."
+DOTSLR_sendingFailedImage_contentDesc,"Sending failed."
+DOTSLR_sendingFailedTitleText,"Send Unsuccessful."
+DOTSLR_sendingSuccessImage_contentDesc,"Sending Success."
+DOTSLR_sendingSuccess_text,"Success! Your logs were successfully uploaded to the FMCSA."
+DOTSLR_success_FileReferenceNameKey,"File Reference Name"
+DOTSLR_success_driverNameKey,"Driver Name"
+DOTSLR_success_driverNameValue,"%1$s %2$s"
+DOTSLR_success_eldProviderKey,"ELD Provider"
+DOTSLR_success_licenseNumberKey,"License Number"
+DOTSLR_success_outputFileComment,"Output File Comment"
+DOTSL_sendingImage_contentDesc,"Sending Logs"
+DOTSL_sendingLogsText_text,"Sending Logs to FMCSA…"
+DOT_COMMENT_button_text,"Send Logs to FMCSA"
+DOT_COMMENT_description_text,"Logs will be sent for the previous 8 days to the FMCSA. Once sent, this option cannot be undone."
+DOT_COMMENT_doNotAdd_text,"This should be provided by an authorized safety official."
+DOT_COMMENT_editText_hint,Comment
+DOT_COMMENT_textFieldTitle_text,"Output File Comment"
+DOT_COMMENT_title,"Send Logs to FMCSA"
+DOT_inspectionItem_defaultKeyText,----
+DOT_inspectionItem_defaultValueText,----
+DPF_contactEmail,"Contact Email"
+DPF_contactPhone,"Contact Phone"
+DPF_driverLicenseNumber,"Driver's License Number"
+DPF_driverLicenseNumber,"Driver's License Number"
+DPF_driverLicenseState,"Driver's License State"
+DPF_driverLicenseState,"Driver's License State"
+DPF_driverName,"Driver Name"
+DPF_driverNameFormat,"%1$s %2$s"
+DPF_driverProfile,"Driver Profile"
+DPF_edit,Edit
+DPF_hrContactInformation,"HR Contact Information"
+DPF_licenseInformation,"Commercial Driver's License"
+DPF_loginId,"Login ID"
+DPF_loginInformation,"Login Information"
+DPF_password,Password
+DPF_passwordValue,****
+DPF_personalEmail,"Personal Email"
+DPF_personalPhone,"Personal Phone"
+DVIRMF_noVehicleCurrentlySelected,"No Vehicle Currently Selected"
+DVIRMF_noVehicleCurrentlySelectedInfo,"To create a Vehicle Inspection Report, you must first select the vehicle you are inspecting."
+DVIRMF_selectVehicleButtonText,"Select Vehicle"
+DeepLink_host,accounts.mavenmachines.com
+DeepLink_resetPasswordPathPrefix,/resetpw
+DriverDash_arriveAtStop,Arrive
+DriverDash_arrivingAt,"Arriving at:"
+DriverDash_breakTimer,Break
+DriverDash_cancel,Cancel
+DriverDash_closeDashboard,"CLOSE DASHBOARD"
+DriverDash_cycleTimer,Cycle
+DriverDash_departFromStop,Depart
+DriverDash_departingFrom,"Departing from:"
+DriverDash_dismiss,Dismiss
+DriverDash_driveTimer,Drive
+DriverDash_etaIs,"ETA - %1$s"
+DriverDash_hosTimers,"HOS Timers"
+DriverDash_inMotion,"IN MOTION"
+DriverDash_inViolation,"IN VIOLATION"
+DriverDash_newMessage,"New Message"
+DriverDash_nextStop,"Next Stop"
+DriverDash_nextStops,"Next Stops"
+DriverDash_noNewNotifications,"You have no new notifications."
+DriverDash_noNotifications,"You have no notifications."
+DriverDash_notifications,Notifications
+DriverDash_partnerArriveAtAvailable,"arrived at %1$s"
+DriverDash_partnerEtaAvailable,"ETA - %1$s"
+DriverDash_partnerEtaText,"%1$s's %2$s %3$s"
+DriverDash_partnerEtaUnavailable,"ETA is unavailable"
+DriverDash_playAll,"PLAY ALL"
+DriverDash_shiftTimer,Shift
+DriverDash_snooze,Snooze
+DriverDash_trailerString,"(%1$s) "
+DriverDash_unknownDriver,"Relay driver"
+DriverDash_violation,"%1$s TIME VIOLATION"
+DriverDash_violationGeneric,VIOLATION
+DriverDash_violationWarning,"%1$s TIME WARNING"
+ECID_fleetNotFoundError,"Fleet code %1$s not found. Please check your code and try again."
+ECID_invalidCompanyCodeErrorMessage,"Invalid code: %1$s. %2$s"
+ECID_invalidCompanyCodeNullErrorMessage,"Fleet code must be 5 digits."
+ECID_kioskModeInstructionText,"To login using a company ID, please enter your fleet code below. If you don't know your fleet code, please call your Maven fleet administrator."
+ECID_verifyCodeButtonText,"Verify Code"
+ECID_verifyingCodeButtonText,"Verifying Code…"
+ECID_welcomeText,"Enter Company Identification Code"
+EDPF_addPhoto,"<u>Add Photo</u>"
+EDPF_cancelButtonText,Cancel
+EDPF_comingSoon,"Coming Soon…"
+EDPF_driverFirstName,"Driver First Name"
+EDPF_driverLastName,"Driver Last Name"
+EDPF_driverLicense,"Driver's License"
+EDPF_driverLicenseInfo,"Required for Department of Transportation Inspections"
+EDPF_driverLicenseNumber,"Driver License Number"
+EDPF_editDriverProfileToolbarTitle,"Edit Driver Profile"
+EDPF_enterLicenseNumber,"Please Enter Your License Number"
+EDPF_generalErrorMessage,"Oops! Something went wrong."
+EDPF_hrContactInformation,"HR Contact Information"
+EDPF_informationIsPersonal,"This is your personal information used for logging into this mobile application. It is not visible to your employer"
+EDPF_informationVisibleToEmployer,"This information is visible to your current fleet employers"
+EDPF_personalEmail,"Personal Email"
+EDPF_personalPhone,"Personal Phone"
+EDPF_saveButtonText,Save
+EDPF_selectLicenseState,"Please Select Your License State"
+EDPF_state,State
+EDPF_state,State
+EDPF_successMessage,"Profile Successfully Updated"
+EHOS_SERVER_ERROR,"Network error."
+EHOS_SUCCESS_MESSAGE,"Request Successful!"
+EHOS_button_text,"Send Logs"
+EHOS_date_error_message,"Please fill in both the start and end date fields"
+EHOS_date_prompt,"Date Range"
+EHOS_email_error_message,"Please make sure that all email addresses entered are valid."
+EHOS_email_hint,"Email Addresses"
+EHOS_email_prompt,"Email Addresses to Send Logs To"
+EHOS_end_hint,"End Date"
+EHOS_header,"Email HOS Logs"
+EHOS_heading,"Email HOS Logs"
+EHOS_range_30_days,"Last 30 days"
+EHOS_range_6_months,"Last 6 months"
+EHOS_range_8_days,"Last 8 days"
+EHOS_start_hint,"Start Date"
+EHOS_title,"Email Logs"
+EHOS_violations_prompt,"Include Violations in HOS report"
+ELDAE_acceptEdits,"Accept Edits"
+ELDAE_acceptingRejectingErrorMessage,"Something went wrong! Please try again in few minutes. If you still have issues, please contact your fleet administrator."
+ELDAE_adminEditsRequested,"Admin edit requested"
+ELDAE_adminHasEditedThisLog,"You have a pending admin edit to accept. Please review the changes and either accept or reject the changes."
+ELDAE_admin_edit_accepted,"Edits Successfully Accepted"
+ELDAE_admin_edit_cancelled,"Edits Successfully Canceled"
+ELDAE_admin_edit_rejected,"Edits Successfully Rejected"
+ELDAE_admin_edit_requested,"Edits Successfully Requested"
+ELDAE_cancel,Cancel
+ELDAE_cancelAdminEdit,"Cancel Admin Edit"
+ELDAE_cancelRequestModalDialogMessage,"Are you sure you want to cancel this request?"
+ELDAE_cancelRequestModalDialogNegativeButtonText,No
+ELDAE_cancelRequestModalDialogPositiveButtonText,Yes
+ELDAE_cancelRequestModalDialogTitle,"Cancel Request"
+ELDAE_editsCouldNotBeMerged,"Edits Could Not Be Merged"
+ELDAE_editsCouldNotBeRejected,"Edits Could Not Be Rejected"
+ELDAE_finishingUpRejection,"Finishing Up Rejection"
+ELDAE_mergingEdits,"Merging Edits"
+ELDAE_noteForAdmin,"Note for Admin"
+ELDAE_noteForAdminEditRejectError,"Please enter explanation for reject."
+ELDAE_noteForAdminEditRequestError,"Please enter explanation for request."
+ELDAE_reject,Reject
+ELDAE_rejectAdminEdit,"Reject Admin Edit"
+ELDAE_rejectEdits,"Reject Edits"
+ELDAE_rejectingAdminEdits,"Rejecting Admin Edits"
+ELDAE_request,Request
+ELDAE_requestAdminEdit,"Request Admin Edit"
+ELDAE_topBar_cannotEditLog,"You cannot edit this log because you have requested an admin edit"
+ELDAIF_item_arrowDesc,"go to log"
+ELDAIF_item_textDefault,-----
+ELDAIF_item_titleDefault,-----
+ELDAIF_noActionItemImage_contentDesc,"No Action Items"
+ELDAIF_noActionItemsText,"Action Items will appear here when you have business to take care of."
+ELDAIF_noActionItemsTitle,"You're All Caught Up"
+ELDCCRS_rrulesetChangedSuccess,"Active Ruleset Successfully Changed."
+ELDCCRS_rulesetChangedFailureCanadian,"Cannot change an individual log to Canadian ruleset"
+ELDCCRS_rulesetChangedFailureCanadian,"Cannot change an individual log to Canadian ruleset"
+ELDCF_loadingText,Loading…
+ELDCRSFDL_canadianNorthCycleOneText,"Canada North — Cycle 1 (80hr / 7day)"
+ELDCRSFDL_canadianNorthCycleOneText,"Canada North - Cycle 1 (80hr / 7day)"
+ELDCRSFDL_canadianNorthCycleTwoText,"Canada North — Cycle 2 (120hr / 14day)"
+ELDCRSFDL_canadianNorthCycleTwoText,"Canada North - Cycle 2 (120hr / 14day)"
+ELDCRSFDL_canadianSouthCycleOneText,"Canada South — Cycle 1 (70hr / 7day)"
+ELDCRSFDL_canadianSouthCycleOneText,"Canada South - Cycle 1 (70hr / 7day)"
+ELDCRSFDL_canadianSouthCycleTwoText,"Canada South — Cycle 2 (120hr / 14day)"
+ELDCRSFDL_canadianSouthCycleTwoText,"Canada South - Cycle 2 (120hr / 14day)"
+ELDCRSFDL_changeDriverRulesetTitle,"Change Driver Ruleset"
+ELDCRSFDL_changingRulesetMessage,"Changing Ruleset"
+ELDCRSFDL_doneButtonText,Done
+ELDCRSFDL_emptyRulesetErrorMessage,"Please select the ruleset to apply."
+ELDCRSFDL_shortHaulDescriptionText,"USA Short Haul Property"
+ELDCRSFDL_shortHaulPassengerDescriptionText,"USA Short Haul Passenger"
+ELDCRSFDL_standardELDDescriptionText,"USA Property (70hr / 8day)"
+ELDCRSFDL_subTitleTemplate,"For %s"
+ELDCRSFDL_texas70DescriptionText,"Texas Intrastate (70hr / 7day)"
+ELDCRSFDL_titleText,"Change This Log's Ruleset"
+ELDCRT_certifyLogDateText,"Certified %1$s"
+ELDCRT_certifyLogError,"Could not certify log."
+ELDCRT_certifyLogLayout_acceptEditRecertifyButtonText,"Accept Edits and Recertify"
+ELDCRT_certifyLogLayout_certifyButtonText,"CERTIFY LOG"
+ELDCRT_certifyLogLayout_defaultTitleText,"Saturday, May 15, 2017"
+ELDCRT_certifyLogLayout_descText,"I hereby certify that my data entries and my record of duty status for this 24-hour period are true and correct."
+ELDCRT_certifyLogToastText,"Log Successfully Certified"
+ELDDCF_currentDutyStatusTitleText,"Current Duty Status"
+ELDDCF_currentVehicleTitleText,"Current Vehicle EDIT"
+ELDDCF_driveLockOutButton,SELECT
+ELDDCF_driveLockOutMessage,"To go into DRIVE, you must select a vehicle."
+ELDDCF_driveLockOutTitle,"No Vehicle Currently Selected"
+ELDDCF_dutyStatusChangeNoteTitle,"Duty Status Change Note"
+ELDDCF_dutyStatusTitle,"Duty Status"
+ELDDCF_dutyStatus_D,Driving
+ELDDCF_dutyStatus_Drive,Drive
+ELDDCF_dutyStatus_OFF,"Off Duty"
+ELDDCF_dutyStatus_ON,"On Duty"
+ELDDCF_dutyStatus_SB,"Sleeper Berth"
+ELDDCF_fetchLocation,"fetch location"
+ELDDCF_infoManualDriveDisabledDetails,"Your fleet has disabled going into Drive manually. Connect to a vehicle and begin driving, and you’ll automatically be put in Drive."
+ELDDCF_infoManualDriveDisabledTitle,"Manual Drives Disabled"
+ELDDCF_locationNotFound,"Your location could not be determined automatically. Tap the arrow icon to try again or enter your location manually."
+ELDDCF_locationTitle,Location
+ELDDCF_showErrorMessage_dutyStateNotFound,"Select a duty status or an exception to save."
+ELDDCF_showErrorMessage_locationNotFound,"Enter a valid location."
+ELDDCF_showErrorMessage_notesNotFound,"Enter a note."
+ELDDCF_toolbar_title,"Change Duty Status"
+ELDDCF_warning_drive_not_eld_compliant_detail,"Your app must connected to the vehicle adapter before you begin a drive for ELD compliance."
+ELDDCF_warning_drive_not_eld_compliant_title,"This Drive Will Not Be ELD Compliant!"
+ELDDCF_warning_drive_without_connected_detail,"Your fleet has disabled going into Drive when not connected to a vehicle. Connect to a vehicle and you’ll be able to go into Drive."
+ELDDCF_warning_drive_without_connected_title,"Drives Without Connected Vehicle Disabled"
+ELDDLOF_add_driver_license_number_and_state,"Add Driver License Number and State"
+ELDDLOF_continueButtonText,Continue
+ELDDLOF_continueButtonText,Continue
+ELDDLOF_dot_inspection_mode_requirement,"Roadside Inspection Requirement"
+ELDDLOF_driverLicenseSampleImage,"Driver License Sample"
+ELDDLOF_licenseDataExplanation,"The Department of Transportation requires that you digitally submit your commercial driver’s license number and state during an inspection. Please add this information to your driver profile."
+ELDDSCF_currentVehicleConnectionStatusTitleText,"Vehicle Connection Status"
+ELDDSCF_dutyStatusTabTitle,"Duty Statuses"
+ELDDSCF_editButtonText,Edit
+ELDDSCF_exceptionTabTitle,"Daily Shift Exceptions"
+ELDDSCF_toolbar_title,"Add HOS Event"
+ELDDSCF_vehicleAdapterConnected,Connected
+ELDDSCF_vehicleAdapterNotConnected,"Not Connected"
+ELDDSCF_vehicleHasNoAdapter,"Vehicle Has No Adapter"
+ELDDSCF_vehicleText,"Current Vehicle"
+ELDEDIT_badEndTimeErrorMessage,"End time must be after Start time."
+ELDEDIT_badEndTimeForEventUpdateErrorMessage,"End time cannot be before the Start time\nof the original event."
+ELDEDIT_badStartTimeErrorMessage,"Start time must be before End time."
+ELDEDIT_badStartTimeForEventUpdateErrorMessage,"Start time cannot be after the End time\nof the original event."
+ELDEDIT_dutyStatusTitle,"Duty Status"
+ELDEDIT_editLogFailure,"Failed to edit log."
+ELDEDIT_endTimeTitle,"End Time"
+ELDEDIT_fetchLocationContentDesc,"fetch location"
+ELDEDIT_locationLockedMessage,"The ELD Mandate requires the automatic recording of GPS location as the distance to the nearest town of 5,000 or more. Locations can only be entered by drivers if Maven cannot automatically determine location."
+ELDEDIT_locationLockedTitle,"Cannot Edit Location"
+ELDEDIT_locationNotFound,"Your location could not be determined automatically. Tap the arrow icon to try again or enter your location manually."
+ELDEDIT_locationTitle,Location
+ELDEDIT_movementEventsEditNoteText,"Movement time must be labelled as Drive or the special categories ON Yard Moves or OFF Personal Conveyance."
+ELDEDIT_movementTimeCannotBeEdited,"Movement time cannot be edited."
+ELDEDIT_notesTitle,Notes
+ELDEDIT_showErrorMessage_dutyStateNotFound,"Select a duty status."
+ELDEDIT_showErrorMessage_endTimeNotFound,"Set the end time."
+ELDEDIT_showErrorMessage_futureTimeEdit,"Cannot edit an event with a future time."
+ELDEDIT_showErrorMessage_locationNotFound,"Enter a valid location."
+ELDEDIT_showErrorMessage_notesNotFound,"Enter a note."
+ELDEDIT_showErrorMessage_saveFailed,"Failed to save edit. Please try again."
+ELDEDIT_showErrorMessage_startTimeNotFound,"Set the start time"
+ELDEDIT_showErrorMessage_unableToEditEvent,"Unable to edit event. Please try again."
+ELDEDIT_startTimeTitle,"Start Time"
+ELDEDIT_toolbarTitle_addEvent,"Add Past Duty Status"
+ELDEDIT_toolbarTitle_editEvent,"Edit Duty Status"
+ELDEVF_addPastEventButton_text,"ADD PAST EVENT"
+ELDEVF_commonTopBar_inspectionLayout_certifiedDefaultText,"Certified —/—/—"
+ELDEVF_commonTopBar_inspectionLayout_certifiedImageDesc,Certified
+ELDEVF_eventsBar_eventsTitle,Events
+ELDEVF_eventsBar_eventsWithSuggestedEditsTitle,"Events with suggested edits"
+ELDEVF_eventsBar_violationsTitle,Violations
+ELDEVF_eventsList_dutyStatusDefaultText,"Not Found"
+ELDEVF_eventsList_dutyStatusDurationDefaultText,"0h 00m"
+ELDEVF_eventsList_dutyStatusLocationDefaultText,"Not Found"
+ELDEVF_eventsList_dutyStatusNotesDefaultText,--
+ELDEVF_eventsList_dutyStatusTimeDefaultText,"Not Found"
+ELDEVF_eventsList_dutyStatusYMPCDefaultText,--
+ELDEVF_eventsList_editButtonText,EDIT
+ELDEVF_eventsList_removeExceptionButton,Remove
+ELDEVF_lowerBoundTimeText,"12 AM"
+ELDEVF_lowerBoundTimeTextForToday,NOW
+ELDEVF_topBar_cannotEditText,"Logs cannot be edited once certified."
+ELDEVF_upperBoundTimeText,"12 AM"
+ELDEVF_violationsList_breakTime_US70HR,"30 Minute"
+ELDEVF_violationsList_breakViolationTitle,"%1$s Break Needed"
+ELDEVF_violationsList_cycleTime_US70HR,"70 Hour"
+ELDEVF_violationsList_cycleViolationTitle,"%1$s Cycle Time Exceeded"
+ELDEVF_violationsList_driveViolationTitle,"Drive Time Exceeded"
+ELDEVF_violationsList_durationTextPrefix," for  "
+ELDEVF_violationsList_headerDefaultText,"Not Found"
+ELDEVF_violationsList_iconText,!
+ELDEVF_violationsList_locationDefaultText,"Not Found"
+ELDEVF_violationsList_shiftViolationTitle,"Shift Time Exceeded"
+ELDEVF_violationsList_timeAndDurationDefaultText,--
+ELDEVF_violationsList_timeTextPrefix,At 
+ELDEXEP_16HoursInfoDetails,"Drivers who begin and end their day from the same location can use the 16 Hour Exception to add two extra hours to their shift once per week."
+ELDEXEP_16HoursInfoTitle,"What is the 16 Hour Short Haul Exception?"
+ELDEXEP_16HoursLabelText,"16 Hour Exception"
+ELDEXEP_16HoursShortTitle,"16 Hour"
+ELDEXEP_16HoursText,16
+ELDEXEP_ADExceptionNteHint,"Adverse Driving Exception Note"
+ELDEXEP_SHExceptionNteHint,"16 Hour Exception Note"
+ELDEXEP_adverseDrivingLabelText,"Adverse Driving Exception"
+ELDEXEP_adverseDrivingShortTitle,"Adverse Driving"
+ELDEXEP_adverseDrivingText,AD
+ELDEXEP_adverseInfoDetails,"When you encounter adverse driving conditions that you or your dispatcher could not have foreseen, you can add two extra hours of drive time to get safely to your destination."
+ELDEXEP_adverseInfoTitle,"What is the Adverse Driving Exception?"
+ELDEXEP_defaultExceptionNteHint,"Exception Note"
+ELDEXEP_emptyNoteErrorMessage,"Please enter note for the exception."
+ELDEXEP_exceptionStatusApplied,"Invoked for shift starting at %s."
+ELDEXEP_exceptionStatusNotApplied,"Not used, no shift begun on this day."
+ELDEXEP_exceptionStatusUnknown,Unknown
+ELDEXEP_exceptionViewDateTitle,"For %1$s, %2$s"
+ELDEXEP_exceptionViewNoShiftStartDetails,"Exceptions will be applied to your next shift for today."
+ELDEXEP_exceptionViewShiftStartDetails,"Exceptions will be applied to your shift that started %1$s at %2$s."
+ELDEXEP_onThisDayTitleText,"on this day"
+ELDEXEP_selectedExceptionText,"\u2705\ufe0f"
+ELDEXEP_todayTitleText,today
+ELDEXEP_viewTitleText,"Daily Log Exceptions"
+ELDEXEP_yesterdayTitleText,yesterday
+ELDFRM_additionalNotesInputLayout_title,"Additional Notes"
+ELDFRM_cannotChangeFormData,"Form data cannot be changed once a log has been certified."
+ELDFRM_coDriverInputLayout_title,"Co Driver"
+ELDFRM_logRuleset,"Log Ruleset"
+ELDFRM_milesDrivenInputLayout_title,"Miles Driven"
+ELDFRM_shippingNumberInputLayout_title,"Shipping Numbers"
+ELDFRM_trailerNumberInputLayout_title,"Trailer Numbers"
+ELDFRM_truckNumberInputLayout_title,"Tractor / Truck Numbers"
+ELDHF_actionItem_tabIndicator,"ACTION ITEMS"
+ELDHF_logs_tabIndicator,LOGS
+ELDHF_logs_tabNotification,(%1$d)
+ELDHF_shorthaulELDTimersTitle,"Property-Carrying USA 150-mile Shorthaul"
+ELDHF_shorthaulpassengerELDTimersTitle,"Passenger-Carrying USA 150-mile Shorthaul"
+ELDHF_standardELDTimersTitle,"USA ELD Standard"
+ELDHF_texas70ELDTimersTitle,"Texas 70-Hour"
+ELDHF_timer_timerDefault,--:--
+ELDHF_timer_titleBreak,BREAK
+ELDHF_timer_titleCycle,CYCLE
+ELDHF_timer_titleDefault,-----
+ELDHF_timer_titleDrive,DRIVE
+ELDHF_timer_titleShift,SHIFT
+ELDH_AutoDriveLineStopText,"Your duty status has automatically been changed to On-Duty Not Driving"
+ELDH_AutoDriveLineText,"Your duty status has automatically been changed to Driving."
+ELDLECF_editTabTitle,"Add Past Duty Status"
+ELDLECF_exceptionTabTitle,"Shift Exceptions"
+ELDLIF_DOTInspectionMode,"Roadside Inspection"
+ELDLIF_item_arrowDesc,"go to log"
+ELDLIF_item_certifiedDesc,"certification status"
+ELDLIF_item_driveTimeDefault,-----
+ELDLIF_item_headerTitleEightDayLogs,"Daily ELD Logs"
+ELDLIF_item_headerTitleLastEightDays,"LAST 8 DAYS"
+ELDLIF_item_lockedDesc,"lock status"
+ELDLIF_item_logDateDefault,-----
+ELDLOG_eventsTabIndicatorText,Events
+ELDLOG_formsTabIndicatorText,Forms
+ELDLOG_logGraph_rightBarDefaultTime,-.—
+ELDLOG_logGraph_rightBarTitle,"Total Hours"
+ELDLOG_topBar_certifiedDefaultText,"Certified —/—/—"
+ELDLOG_topBar_certifyButtonText,"Certify Log"
+ELDLOG_topBar_defaultText,"Day of Week, Month Day"
+ELDSTAT_PC_text,"Personal Conveyance Enabled"
+ELDSTAT_VIOL_text,"You are currently in violation"
+ELDSTAT_YM_text,"Yard Moves Enabled"
+ELDSTAT_default_text,"Special State Enabled"
+ELDTF_SH_shift_timer_single_title,"12 Hour Shift"
+ELDTSD_topArrow,▲
+ELDTZ_buttonText_completingSetup,"Completing setup…"
+ELDTZ_buttonText_continue,CONTINUE
+ELDTZ_descText,"In order to properly configure your ELD, select your home terminal time zone from the list below."
+ELDTZ_error_noTimezoneSelected,"Select a time zone to continue."
+ELDTZ_timezoneItemDummyText,Timezone
+ELDTZ_timezoneItem_Alaska,Alaska
+ELDTZ_timezoneItem_Alaska_server,US/Alaska
+ELDTZ_timezoneItem_Arizona,Arizona
+ELDTZ_timezoneItem_Arizona_server,US/Arizona
+ELDTZ_timezoneItem_AtlanticTime_Canada,"Atlantic Time (Canada)"
+ELDTZ_timezoneItem_AtlanticTime_Canada_server,Canada/Atlantic
+ELDTZ_timezoneItem_CentralTime_USCanada,"Central Time (US & Canada)"
+ELDTZ_timezoneItem_CentralTime_USCanada_server,US/Central
+ELDTZ_timezoneItem_EasternTime_USCanada,"Eastern Time (US & Canada)"
+ELDTZ_timezoneItem_EasternTime_USCanada_server,US/Eastern
+ELDTZ_timezoneItem_Indiana_East,"Indiana (East)"
+ELDTZ_timezoneItem_Indiana_East_server,US/East-Indiana
+ELDTZ_timezoneItem_MountainTime_USCanada,"Mountain Time (US & Canada)"
+ELDTZ_timezoneItem_MountainTime_USCanada_server,US/Mountain
+ELDTZ_timezoneItem_PacificTime_USCanada,"Pacific Time (US & Canada)"
+ELDTZ_timezoneItem_PacificTime_USCanada_server,US/Pacific
+ELDTZ_timezoneItem_Saskatchewan,Saskatchewan
+ELDTZ_timezoneItem_Saskatchewan_server,Canada/Saskatchewan
+ELDTZ_toolbarText,"Set Your Home Terminal Time Zone"
+ELDVN_1Hour,"1 hour"
+ELDVN_30Minute,"30 minutes"
+ELDVN_break,Break
+ELDVN_breakViolationSystemNotification,"HOS Violation - 30 Minute Break needed"
+ELDVN_cycle,Cycle
+ELDVN_cycleViolationSystemNotification,"HOS Violation - 70 hour cycle time exceeded"
+ELDVN_drive,Drive
+ELDVN_driveViolationSystemNotification,"HOS Violation - 11 hour drive time exceeded"
+ELDVN_multipleViolationSystemNotification,"Multiple HOS Violations."
+ELDVN_shift,Shift
+ELDVN_shiftViolationSystemNotification,"HOS Violation - 14 hour shift time exceeded"
+ELDVN_warningSystemNotification,"HOS Violation approaching. Please stop driving in the next %1$s."
+ELDWE_pendingEditTitleText,"Admin Edit Pending"
+ELD_dutyStatus_D,D
+ELD_dutyStatus_D_long,Driving
+ELD_dutyStatus_OFF,OFF
+ELD_dutyStatus_OFF_long,"Off Duty"
+ELD_dutyStatus_ON,ON
+ELD_dutyStatus_ON_long,"On Duty"
+ELD_dutyStatus_PC_long,"Personal Conveyance"
+ELD_dutyStatus_PC_long_main,"Personal Conveyance"
+ELD_dutyStatus_SB,SB
+ELD_dutyStatus_SB_long,"Sleeper Berth"
+ELD_dutyStatus_YM_long,"Yard Move"
+EMPTY,
+ERRV_defaultString,"This is an error view box. Write error message here."
+ETNF_descTextHeader,"Enter Your Truck Number"
+ETNF_invalidVinEntered,"The entered VIN was not a valid VIN"
+ETNF_noTruckNumberEntered,"Please enter a truck number"
+ETNF_noVinEntered,"Please enter a VIN"
+ETNF_okButtonText,OK
+ETNF_setTruckNumberFailed,"Failed to set the truck number. Please try again."
+ETNF_setVinFailed,"Failed to set the vin.  Please try again."
+ETNF_truckNumberInputHint,"Truck/Tractor Number"
+ETNF_vinInputHint,VIN
+ETNF_vinTextHeader,"Enter Your Truck's VIN"
+EldTimer_titleBreak_long,"30 Minute Break"
+EldTimer_titleBreak_short,"Break Timer"
+EldTimer_titleCycle_long,"70 Hour Week"
+EldTimer_titleCycle_short,"Cycle Timer"
+EldTimer_titleDefault,-----
+EldTimer_titleDrive_long,"11 Hour Drive"
+EldTimer_titleDrive_short,"Drive Timer"
+EldTimer_titleShift_long,"14 Hour Shift"
+EldTimer_titleShift_short,"Shift Timer"
+EldTimer_valueDefault,--:--
+FORM_backButton,Back
+FORM_cancelButton,Cancel
+FORM_confirmButton,Submit
+FORM_error,"Please complete all invalid fields"
+FORM_formSubmitted,"Form Submitted"
+FORM_formsHomeHistoryTabTitle,"Forms History"
+FORM_formsHomeNewFormTabTitle,"New Form"
+FORM_miscellaneousFormMissingDescription,"No description provided"
+FORM_miscellaneousFormsTitle,"Fleet Forms"
+FORM_noMiscellaneousForms,"No Miscellaneous Forms"
+FORM_noSubmittedForms,"No Submitted Forms"
+FORM_submitPending,Submitting…
+FORM_submittedFormHeader,"Form Details"
+FORM_submittedNullWidget,"No response"
+FORM_submittedTime,"Submitted %1$s"
+FORM_uploadPending,Uploading…
+FORM_uploadedTime,"Uploaded %1$s"
+GMF_mapNotAvailable,"Not Available"
+HRID_credentialsNotFound,"Please enter a valid company ID and password"
+HRID_hrIdHint,"%s Employee ID"
+HRID_invalidCredentialsError,"Invalid credentials entered."
+HRID_mavenLogoLongClickError,"""Hold for 5 seconds to go back to the traditional login page"""
+IMEF_descText,"Streamline your daily workflow and take control of your record keeping. Welcome to paperless logs."
+IMEF_imageContentDesc,"Maven ELD"
+IMEF_title,"Introducing Maven ELD"
+ISCGF_add_page_button,"Add Page"
+ISCGF_add_photo_button,"Add Photo"
+ISCGF_cancel_alert_message,"Are you sure you want to discard your changes?"
+ISCGF_cancel_alert_negative,No
+ISCGF_cancel_alert_positive,Yes
+ISCGF_cancel_alert_title,"Exit Document Editor"
+ISCGF_cancel_button,Cancel
+ISCGF_finish_picture_button,CONFIRM
+ISCGF_photo_number,"Photo %1$d/%2$d"
+ISCGF_remove_picture_button,Remove
+ISCGF_retake_picture_button,Retake
+ISCGF_rotate_picture_button,Rotate
+ISCGF_save_button,Done
+ISCGF_take_photo_button,"Take Photo"
+ISCPEF_retake,Retake
+ISCPEF_save,Save
+ISCPEF_saving,Saving…
+LNA_descText,"Location Services are required in order to use Maven. Press the button below to edit location settings."
+LNA_imageDesc,location
+LNA_tryAgain,"GO TO SETTINGS"
+MAINUI_dutyStatusChanged_d,"Duty status changed to DRIVING."
+MAINUI_dutyStatusChanged_d,"Duty status changed to DRIVING."
+MAINUI_dutyStatusChanged_off,"Duty status changed to OFF DUTY."
+MAINUI_dutyStatusChanged_off,"Duty status changed to OFF DUTY."
+MAINUI_dutyStatusChanged_on,"Duty status changed to ON DUTY."
+MAINUI_dutyStatusChanged_on,"Duty status changed to ON DUTY."
+MAINUI_dutyStatusChanged_sb,"Duty status changed to SLEEPER BERTH."
+MAINUI_dutyStatusChanged_sb,"Duty status changed to SLEEPER BERTH."
+MAINUI_savingBox_text,Saving
+MAINUI_savingBox_text,Saving
+MAINUI_showErrorMessage_failedToChangeDutyStatus,"Failed to updated duty status. Please try again."
+MAINUI_showErrorMessage_failedToChangeDutyStatus,"Failed to updated duty status. Please try again."
+MAINUI_showErrorMessage_failedToLoadLog,"Failed to fetch log details. Please try again."
+MAINUI_showErrorMessage_failedToLoadLog,"Failed to fetch log details. Please try again."
+MAINUI_stopSuccessfullyReordered,"Stop Successfully Reordered!"
+MAINUI_stopSuccessfullyReordered,"Stop Successfully Reordered!"
+MAINUI_stopUnsuccessfullyReordered,"Error: Unable to Successfully Reorder Stop"
+MAINUI_stopUnsuccessfullyReordered,"Error:  Unable to Successfully Reorder Stop"
+MAIN_UI_loading,Loading
+MAPSF_gaugeLayout_distanceDisplay_defaultText,"0 miles"
+MAPSF_gaugeLayout_timeDisplay_defaultText,00:00:00
+MAPSF_startMarkerTitle,Start
+MAPSF_toast_autoZoomActivated,"Auto Zoom Activated"
+MAPSF_toast_entireRouteShown,"Entire Route Shown"
+MAPSF_toast_eventsHidden,"Events Hidden"
+MAPSF_toast_eventsShown,"Events Shown"
+MAPSF_toast_followBearingActivated,"Follow Bearing Activated"
+MAPSF_toast_followBearingDeactivated,"Follow Bearing Deactivated"
+MAPSF_toast_followBearingRequiresAutoZoom,"Follow Bearing Requires Auto Zoom"
+MAPSF_toast_manualZoomActivated,"Manual Zoom Activated"
+MAPSF_toast_onlyRecentEventsShown,"Only Recent Events Shown"
+MAVEN_noCredentialsError,"Please enter your credentials."
+MDPV_disabled_title,"Document imaging is not currently supported on this device."
+MDPV_empty_title,"Add photo of %1$s"
+MDPV_empty_title,"Add photo of %1$s"
+MDPV_loading_title,"Document Loading"
+MDQU_failed,"Document upload failed. "
+MDQU_failed_with_count,"%1$d images not uploaded."
+MDQU_try_again,"Try again?"
+MDUQ_in_progress,"Uploading %1$d of %2$d images"
+MDUQ_success,"All images uploaded!"
+MLV_fetchLocation,"fetch location"
+MLV_locationNotFound,"Your location could not be determined automatically. Tap the arrow icon to try again or enter your location manually."
+MLV_locationTitle,Location
+MLV_showErrorMessage_locationNotFound,"Enter a valid location."
+MN_goToMessages,"Go to Messages"
+MN_newMessageContentText,"View new messages in the messages tab."
+MN_newMessageSystemContentText,"New messages. Please view your messages tab for details."
+MN_newMessageTitleText,"New Messages"
+MPDF_okayButtonText,Okay
+MPDF_responseImageContentDescription,"Progress Dialog Response Image"
+MTF_broadcast,Broadcast
+MTF_broadcastWarning,"Note: This message will be sent to all list recipients individually."
+MTF_enterTextHint,"Type message"
+MTF_loadConversationsHistoryButtonText,"{""one"":""Load Conversations Older Than %d Hour"",""other"":""Load Conversations Older Than %d Hours""}"
+MTF_loadingMessages,Loading
+MTF_messagesHeader,Messages
+MTF_noThreads,"You don't have any
+conversations right now"
+MTF_sendButton,SEND
+MTF_threadCreated,"Conversation created by %1$s on %2$s"
+MT_helpPopupContentText,"Now get Maven safety benefits even without the headset. Press & hold the button for 2 seconds to toggle On/Off."
+MT_helpPopupTitle,"New Feature"
+MT_turnOffText,"Turn Maven Off"
+MT_turnOnText,"Turn Maven On"
+MUPV_manyUsers,+%1$d
+MUPV_unknownInitials,"\?"
+MavenTag_tagIcon,"Tag Icon"
+NDF_androidVersion,"Android v %1$s"
+NDF_appRating,"Rate Maven Machines"
+NDF_appVersion,"App v %1$s"
+NDF_checkForUpdate,"Check for Updates"
+NDF_checking,Checking…
+NDF_dotInspection,"Roadside Inspection"
+NDF_driverDashboard,"Driver Dashboard"
+NDF_driverName,"%1$s %2$s"
+NDF_driverProfile,"Driver Profile"
+NDF_emailLogs,"Email HOS Logs"
+NDF_forms,Forms
+NDF_help,Help
+NDF_logOut,"Log Out"
+NDF_roadsideInspection,"Roadside Inspection"
+NDF_settings,Settings
+NDF_tripHistory,"Trip History"
+PDATF_actionButton,"Arrive Terminal"
+PDATF_actionButton,"Arrive Terminal"
+PDATF_arriveTerminalTitle,"En route to %1$s terminal"
+PDATF_arriveTerminalTitle,"En route to %1$s terminal"
+PDATF_estimatedTimeOfArrival,"ETA is %1$s"
+PDATF_estimatedTimeOfArrival,"ETA is %1$s"
+PDBBV_backButton_contentDescription,"Back Button"
+PDBBV_backButton_text,back
+PDBBV_cancelButton_contentDescription,"Cancel Button"
+PDBBV_closeButton_contentDescription,"Close Button"
+PDBBV_newShipmentText,"New %1$s"
+PDBBV_shipmentId_proNumberText,"PRO #%1$s"
+PDBBV_shipmentId_requestText,"REQ #%1$s"
+PDBBV_shipmentId_textDefault,-
+PDBBV_typeImage_contentDescription,"Shipment Type"
+PDBCA_selectShipments,"Select Shipments"
+PDBCD_acc_text,Accessorials
+PDBCD_acc_text,Accessorials
+PDBCD_finishButton_text,"Complete Shipments"
+PDBCD_finishButton_text,"Complete Shipments"
+PDBCD_signerField_text,"Contact Name"
+PDBCD_signerField_text,"Contact Name"
+PDBCD_signerHeaderDeliveryOnly,"Signed Delivery Receipt"
+PDBCD_signerHeaderDeliveryOnly,"Signed Delivery Receipt"
+PDBCD_signerHeader_text,"Customer Name"
+PDBCD_signerHeader_text,"Customer Name"
+PDCC_status_0,Pending
+PDCC_status_1000d,"Delivered - No Problems"
+PDCC_status_1000p,"Picked Up - No Problems"
+PDCC_status_1100,"Delivered - Damaged"
+PDCC_status_1101,"Delivered - Short"
+PDCC_status_1102,"Delivered - Damaged + Short"
+PDCC_status_1103,"Delivered - Partial Refusal"
+PDCC_status_1104,"Delivered - Over"
+PDCC_status_1200,"Not Delivered - Damaged"
+PDCC_status_1201,"Not Delivered - Short"
+PDCC_status_1202,"Not Delivered - Collection Issue"
+PDCC_status_1203,"Not Delivered - Other"
+PDCC_status_1204,"Not Delivered - Not Ordered"
+PDCC_status_1205,"Not Delivered - Order Canceled"
+PDCC_status_1206,"Not Delivered - Shipped Early"
+PDCC_status_1207,"Not Delivered - Shipped Late"
+PDCC_status_1208,"Not Delivered - Wrong Item"
+PDCC_status_1209,"Not Delivered - Wrong Location"
+PDCC_status_1210,"Beyond Bus Hrs"
+PDCC_status_1211,Holiday
+PDCC_status_1212,Inventory
+PDCC_status_1213,Weather
+PDCC_status_1214,Strike
+PDCC_status_1215,"Spec Equip Req"
+PDCC_status_1216,"Appt Needed"
+PDCC_status_1217,"RES Not Home"
+PDCC_status_1218,"Address Incorrect"
+PDCC_status_1219,"Missed Appt"
+PDCC_status_1220,"Too Long Wait"
+PDCC_status_1221,"Will Redeliver"
+PDCC_status_1222,"Not Delivered - Needs Appt"
+PDCC_status_1223,"Not Delivered - ACC Required"
+PDCC_status_1224,"Attempted - Unable To Access"
+PDCC_status_1225,"Not Delivered - Customer No Longer Wants"
+PDCC_status_1226,"No Freight"
+PDCC_status_1227,"Duplicate Order"
+PDCC_status_1228,"Not Delivered - Deliver Tomorrow"
+PDCC_status_1229,"No Funds"
+PDCC_status_1300,"Not Picked Up - No Freight"
+PDCC_status_1301,"Not Ready - Pick Up Tomorrow"
+PDCC_status_1302,"Not Picked Up - Cut Off"
+PDCC_status_1303,"Not Ready - Return Today"
+PDCC_status_1304,"Not Ready - Reschedule"
+PDCC_status_1400,"Canceled - Bad Address"
+PDCC_status_1401,"Canceled - Missed Appointment"
+PDCC_status_1402,"Canceled - Unable To Contact"
+PDCC_status_1403,"Canceled - Location Closed"
+PDCC_status_1404,"Canceled - Other"
+PDCC_status_1405,"Canceled - Lift Gate Required"
+PDCC_status_1414,"Canceled - Force Return To Terminal"
+PDCC_status_1415,"Canceled - Customer Request"
+PDCC_status_1416,"Canceled - Deliver Tomorrow"
+PDCC_status_1417,"Canceled - Consignee Closed - Before 5pm"
+PDCC_status_1418,"Canceled - Consignee Closed - After 5pm"
+PDCC_status_1419,"Canceled - Did Not Attempt"
+PDCC_status_1420,"Canceled - Unable To Access Location"
+PDCC_status_1421,"Canceled - Shipper Closed - Arrived On Time"
+PDCC_status_1422,"Canceled - Shipper Closed - Arrived Late"
+PDCC_status_1423,"Canceled - Cut Off"
+PDCC_status_1424,"Canceled - Missed Appointment"
+PDCC_status_1425,"Canceled - By TMS"
+PDCC_status_1427,"Canceled - Force Return To Terminal"
+PDCC_status_canceled_noFreight,"Canceled - No Freight"
+PDCC_status_forceReturnToTerminal,"Force Return To Terminal"
+PDCNF_noFreightCompleteDialog_buttonCancel,Cancel
+PDCNF_noFreightCompleteDialog_buttonConfirm,"Complete Stop"
+PDCNF_noFreightCompleteDialog_customerContactInputHint,"Contact Name"
+PDCNF_noFreightCompleteDialog_message,"Please enter the name of the customer contact who authorized this No Freight stop."
+PDCNF_noFreightCompleteDialog_title,"Complete No Freight Stop?"
+PDCSDF_addressIncorrect,"Address Incorrect"
+PDCSDF_appointmentNeeded,"Appt Needed"
+PDCSDF_cancel,Cancel
+PDCSDF_closedDueToWeather,"Closed due to weather"
+PDCSDF_closedForHoliday,"Closed for holiday"
+PDCSDF_closedForInventory,"Closed for inventory"
+PDCSDF_confirm,Confirm
+PDCSDF_consigneeClosedAfter5,"Consignee closed - arrived after 5pm"
+PDCSDF_consigneeClosedBefore5,"Consignee closed - arrived before 5pm"
+PDCSDF_customerRequest,"Customer Request"
+PDCSDF_cutOff,"Cut Off To Make Pickups"
+PDCSDF_deliverTomorrow,"Deliver Tomorrow"
+PDCSDF_didNotAttempt,"Did not attempt"
+PDCSDF_duplicateShipment,"Duplicate shipment"
+PDCSDF_explanationOfStopFailure,"Explanation of Stop Failure"
+PDCSDF_forcedReturnToTerminal,"Forced return to terminal"
+PDCSDF_freightReturnedToDock,"Freight returned to dock"
+PDCSDF_liftGateRequired,"Liftgate required"
+PDCSDF_locationClosed,"Location closed"
+PDCSDF_missedAppointmentWindow,"Missed appointment window"
+PDCSDF_missedWindow,"Missed appt window"
+PDCSDF_noFreightAvailable,"No freight"
+PDCSDF_otherReason,"Other reason"
+PDCSDF_pickupTomorrow,"PU Next Bus Day"
+PDCSDF_reasonPlaceholder,"Enter explanation here."
+PDCSDF_reasonTitle,Explanation
+PDCSDF_reasonTitle,Explanation
+PDCSDF_residentNotHome,"RES Not Home"
+PDCSDF_shipperClosedLate,"Shipper closed - arrived late"
+PDCSDF_shipperClosedOnTime,"Shipper closed - arrived on time"
+PDCSDF_specialEquipmentNeeded,"Spec Equip Req"
+PDCSDF_unableToAccessLocation,"Unable to access location"
+PDCSDF_unableToContact,"Customer unavailable"
+PDCSDF_waitTimeTooLong,"Too Long Wait"
+PDDC_desc_text,"DETENTION COUNTER"
+PDDC_time_default,--
+PDDPD_bolNumberHeader_text,"BOL Number"
+PDDPD_bolNumberInfo_text,"Enter BOL Number"
+PDDPD_damagedDeliveryDetailsTitle_text,"Damaged Freight Details"
+PDDPD_damagedFreight_cartonOpenTorn,"Carton Open/Torn"
+PDDPD_damagedFreight_concealedDamage,"Concealed Damage"
+PDDPD_damagedFreight_crushed,Crushed
+PDDPD_damagedFreight_crushedCorner,"Crushed corner"
+PDDPD_damagedFreight_dentedBent,Dented/Bent
+PDDPD_damagedFreight_forkTowMotorHoles,"Fork/Tow Motor Holes"
+PDDPD_damagedFreight_frozen,Frozen
+PDDPD_damagedFreight_glassBroken,"Glass Broken"
+PDDPD_damagedFreight_leaking,Leaking
+PDDPD_damagedFreight_otherIssues,"Some other issues"
+PDDPD_damagedFreight_packagesFellOff,"Packages fell off"
+PDDPD_damagedFreight_responseHeader,"Select a damaged freight explanation"
+PDDPD_damagedFreight_scratched,Scratched
+PDDPD_damagedFreight_wet,Wet
+PDDPD_deliveryNotesHeader_text,"Add Shipment Note"
+PDDPD_deliveryNotesInfo_text,"Required for deliveries with issues."
+PDDPD_error_damage_text,"Select a damaged freight option."
+PDDPD_error_delivery_receipt_photo_text,"Provide a photo of the delivery receipt."
+PDDPD_error_notes_text,"Enter a shipment note."
+PDDPD_error_partialRefusal_text,"Please enter # of pallets and/or pieces refused."
+PDDPD_error_photo_text,"Provide a photo of the shipment."
+PDDPD_error_signer_text,"Enter the name of the receiver."
+PDDPD_finishDelivery_text,"Finish Shipment"
+PDDPD_numberPallets_text,"# of Pallets"
+PDDPD_numberPieces_text,"# of Pieces"
+PDDPD_pallets_text,Pallets
+PDDPD_partialRefusal_text,"Partial Refusal Information"
+PDDPD_pieces_text,Pieces
+PDDPD_refusedDeliveryConsigneeHeader_text,"Consignee Contact Name"
+PDDPD_refusedDeliveryInto_text,"Contact Name"
+PDDPD_signedDeliveryReceiptHeader_text,"Signed Delivery Receipt"
+PDDPD_signedDeliveryReceiptInfoPittOhio_text,Signature
+PDDPD_signedDeliveryReceiptInfo_text,"Contact Name"
+PDDPD_weightHeader_text,Weight
+PDDPD_weightInfo_text,"Enter weight"
+PDDPSO_delivered_text,Delivered
+PDDPSO_notDelivered_text,"Not Delivered"
+PDDPST_beyondBusinessHours,"Beyond Bus Hrs"
+PDDPST_buttonBadAddress_text,"Bad Address"
+PDDPST_buttonCollectionIssue_text,"Collection Issue"
+PDDPST_buttonCustomerNoLongerWants,"Customer No Longer Wants"
+PDDPST_buttonCustomerUnavailable_text,"Customer Unavailable"
+PDDPST_buttonDamagedShort_text,"Damaged + Short"
+PDDPST_buttonDamaged_text,Damaged
+PDDPST_buttonDeliverTomorrow_text,"Deliver Tomorrow"
+PDDPST_buttonDeliverTomorrow_text,"Deliver Tomorrow"
+PDDPST_buttonDuplicatePro_text,"Duplicate PRO Number"
+PDDPST_buttonLiftGateRequired_text,"Lift Gate\nRequired"
+PDDPST_buttonLocationClosed_text,"Location Closed"
+PDDPST_buttonMissedAppt_text,"Missed Appt"
+PDDPST_buttonNeedsAppointment,"Needs Appt"
+PDDPST_buttonNoFunds_text,"No Funds"
+PDDPST_buttonNoFunds_text,"No Funds"
+PDDPST_buttonNotOrdered,"Not Ordered"
+PDDPST_buttonOk_text,"No Problems"
+PDDPST_buttonOrderCancelled,"Order Canceled"
+PDDPST_buttonOtherIssue_text,"Other Issue"
+PDDPST_buttonOver_text,Over
+PDDPST_buttonPartialRefusal_text,"Partial Refusal"
+PDDPST_buttonPending_text,Pending
+PDDPST_buttonReschedule_text,"Not Ready - Reschedule"
+PDDPST_buttonReturnToday_text,"Not Ready - Return Today"
+PDDPST_buttonShippedEarly,"Shipped Early"
+PDDPST_buttonShippedLate,"Shipped Late"
+PDDPST_buttonShort_text,Short
+PDDPST_buttonTomorrow_text,"Deliver Tomorrow"
+PDDPST_buttonUnableAccessDifferentEquipment,"Unable To Access"
+PDDPST_buttonWrongItem,"Wrong Item"
+PDDPST_buttonWrongLocation,"Wrong Location"
+PDDPST_button_accRequired,"ACC Required"
+PDDPST_holiday,Holiday
+PDDPST_inventory,Inventory
+PDDPST_refusedContainer,Refused
+PDDPST_refusedContainer,Refused
+PDDPST_refusedDuplicateOrder,"Duplicate Order"
+PDDPST_refusedDuplicateOrder,"Duplicate Order"
+PDDPST_refusedNoFreight,"No Freight"
+PDDPST_refusedNoFreight,"No Freight"
+PDDPST_strike,Strike
+PDDPST_weather,Weather
+PDDPST_willRedeliver,"Will Redeliver"
+PDIDF_add_driver_license_number_and_state,"Add Driver License Number and State"
+PDIDF_add_driver_license_number_and_state,"Add Driver License Number and State"
+PDIDF_dot_inspection_mode_requirement,"Roadside Inspection Mode Requirement"
+PDIDF_dot_inspection_mode_requirement,"Roadside Inspection Requirement"
+PDIDF_driverLicenseSampleImage,"Driver License Sample"
+PDIDF_licenseDataExplanation,"The Department of Transportation requires that you digitally submit your commercial driver’s license number and state during an inspection. Please add this information to your driver profile."
+PDIDF_licenseDataExplanation,"The Department of Transportation requires that you digitally submit your commercial driver’s license number and state during an inspection. Please add this information to your driver profile."
+PDIDF_proceed_to_dot_inspection,"Proceed to Roadside Inspection"
+PDIDF_update_your_profile,"Update Your Profile"
+PDLS_beginLunch,"Begin lunch"
+PDLS_emergency,Emergency
+PDLS_emergencyAuthorization,"Who authorized you to end lunch early?"
+PDLS_enterName,"Enter name"
+PDLS_explanation,Explanation
+PDLS_explanationError,"Need lunch explanation"
+PDLS_instructions,"Any lunch taken under 30 minutes requires an explanation for why your lunch was not within the allotted time frame."
+PDLS_interruption,Interruption
+PDLS_interruptionConfirmWarningWithText,"Are you sure you want to end your lunch early for the reason below?\n\n%1$s"
+PDLS_interruptionNoReasonsText,"Are you sure you want to end your lunch early?"
+PDLS_lunch,Lunch
+PDLS_lunchAuthorized,"Authorized by %1$s"
+PDLS_lunchChoice1,"Lunch taken on another route"
+PDLS_lunchChoice2,"Lunch taken at stop"
+PDLS_lunchChoice3,"Lunch taken at service center"
+PDLS_lunchChoice4,"Part-time driver, no lunch required"
+PDLS_lunchChoiceAtTerminal,"Lunch taken at terminal"
+PDLS_lunchChoiceLessThanSixHours,"Less than 6 hours"
+PDLS_lunchChoiceOnOtherManifest,"Lunch taken on other manifest"
+PDLS_lunchChoiceSlashDriver,"Slash driver"
+PDLS_lunchComplete,"Lunch Complete!"
+PDLS_lunchCompleted,"Lunch Completed"
+PDLS_lunchInProgress,"Lunch in Progress"
+PDLS_lunchInterrupted,"Lunch Interrupted"
+PDLS_lunchNotComplete,"Lunch Not Completed"
+PDLS_lunchNotComplete,"Lunch Not Completed"
+PDLS_lunchNotStarted,"Lunch Not Started"
+PDLS_lunchSkipped,"Lunch skipped"
+PDLS_lunchTimeCounter,"LUNCH TIME COUNTER"
+PDLS_lunchTimeCounter0m0s,"0m 0s"
+PDLS_skipLunch,"Skip lunch"
+PDLS_stopStatusButton_completeLunchStatusText,"Lunch Complete"
+PDLS_stopStatusButton_startLunchStatusText,"Start Lunch"
+PDLS_submittedExplanation,"Lunch ended early. Submitted explanation:"
+PDMNSDF_cancel,Cancel
+PDMNSDF_confirm,Confirm
+PDMNSDF_text,"Are you sure you want to make this stop your next stop?"
+PDNSV_finishThisRoute,"Finish this Route"
+PDNSV_noStopsAssigned,"No Stops Assigned"
+PDNS_addDeliveryToStop,"Add Delivery To Stop"
+PDNS_addProToStop,"Add PRO Number To Stop"
+PDNS_addProToStopContinueAnyway,"Would you like to continue with the add delivery process?"
+PDNS_addProToStopFailed,"The PRO Number was not found."
+PDNS_addProToStopSuccess,"PRO Number found. It will be added to the current stop."
+PDNS_bulkCompleteConnectionError,"You must be connected to the internet to bulk complete this stop"
+PDNS_recenterMapButton_text,Recenter
+PDNS_returnToTerminalDialog_text,"Return to Terminal"
+PDNS_stopStatusBar_arrivedStatusText,ARRIVE
+PDNS_stopStatusBar_backButton_contentDesc,"Stop Status Back Button"
+PDNS_stopStatusBar_departedStatusText,DEPART
+PDNS_stopStatusBar_driveStatusText,DRIVE
+PDNS_stopStatusBar_exchangingStatusText,EXCHANGE
+PDNS_stopStatusButton_arrivedStatusText,"Begin Loading/Unloading"
+PDNS_stopStatusButton_completeStopText,"Mark Stop as Complete"
+PDNS_stopStatusButton_defaultStatusText,"Press to Continue"
+PDNS_stopStatusButton_departedStatusText,"Begin Next Stop"
+PDNS_stopStatusButton_driveStatusText,"Mark as Arrived"
+PDNS_stopStatusButton_exchangingStatusText,"Please Complete All Shipments"
+PDNS_stopStatusButton_stopsCompleteText,"Return to Terminal"
+PDPPBF_billOfLadingInfo,"Bill of Lading Information"
+PDPPBF_destinationZipCode,"Destination Zip code"
+PDPPBF_proNumber,"PRO Number"
+PDPPSH_backButton_contentDesc,back
+PDPPSH_finishButton_text,"Finish Shipment"
+PDPPSH_freightAppointCheckbox_text,"Delivery requires appointment"
+PDPPSH_freightAppointmentCheckbox_title,"Freight Appointment"
+PDPPSH_handlingUnitsLayout_hint,"Enter handling units"
+PDPPSH_handlingUnitsLayout_title,"Handling Units"
+PDPPSH_hazmatMaterials_checkbox,"Hazmat Materials"
+PDPPSH_liftgate_checkbox,"Liftgate used for pickup"
+PDPPSH_palletCountLayout_hint,"Enter pallet count (actual pallets)"
+PDPPSH_palletCountLayout_title,"Pallet Count"
+PDPPSH_palletSpacesLayout_hint,"Enter pallet spaces (4x4 spaces)"
+PDPPSH_palletSpacesLayout_title,"Pallet Spaces"
+PDPPSH_piecesLayout_hint,"Enter pieces"
+PDPPSH_piecesLayout_title,Pieces
+PDPPSH_piecesOrPallets_hint,"Enter either pieces or pallet count"
+PDPPSH_requiredOrPalletCount,"Required, or Pallet Count"
+PDPPSH_requiredOrPieces,"Required, or Pieces"
+PDPPSH_restrictedLoading_title,"Restricted Loading"
+PDPPSH_shipmentInfo_title,"Shipment Information"
+PDPPSH_shipmentNote,"Shipment note"
+PDPPSH_shipmentNoteOnNoFreightSelected,"Required for pickups with issues."
+PDPPSH_specialPickupServices_title,Accessorials
+PDPPSH_urgentCareCheckbox_text,"Shipment requires urgent care"
+PDPPSH_urgentCareCheckbox_title,"Urgent Care"
+PDPPSH_weightLayout_hint,"Enter weight"
+PDPPSH_weightLayout_title,Weight
+PDPPSO_duplicateOrder,"Duplicate Order"
+PDPPSO_errorWithCode,"Something went wrong selecting your completion code. Please try again"
+PDPPSO_errorWithRoute,"Something went wrong with the shipment. Please try again"
+PDPPSO_noFreight_text,"No Freight"
+PDPPSO_pickUpCutOff_text,"Cut Off"
+PDPPSO_pickUpNextBusDay,"PU Next Bus Day"
+PDPPSO_pickUpTomorrrow_text,"Pick Up Tomorrow"
+PDPPSO_pickedUp_text,"Picked Up"
+PDPPSO_shipperClosed,"Shipper Closed"
+PDPPST_CA_label,CAN
+PDPPST_US_label,USA
+PDPPST_backButton_contentDesc,back
+PDPPST_blank_string,
+PDPPST_bolNumberError,"Error: Bill of Lading photo is required"
+PDPPST_bolThumbnail,"Bill of Lading Thumbnail"
+PDPPST_closedContainer,Closed
+PDPPST_debugProMe,"Pro Me!"
+PDPPST_deliveryReceiptTitle,"Delivery Receipt Information"
+PDPPST_nextButton_text,Next
+PDPPST_photoOfBOL_text,"Photo of Bill of Lading"
+PDPPST_proNumberChangeDialog_cancelButton,"Change Pro Number"
+PDPPST_proNumberChangeDialog_confirmButton,"Do Not Change Pro Number"
+PDPPST_proNumberChangeDialog_message,"This shipment has a preassigned Pro Number. Are you sure you want to change it?"
+PDPPST_proNumberChangeDialog_title,"Warning: Preassigned Pro Number"
+PDPPST_proNumberDuplicateError,"Error: Duplicate PRO Number entered."
+PDPPST_proNumberDuplicate_invalidText,"PRO Number previously entered."
+PDPPST_proNumberError,"Error: Invalid PRO Number entered."
+PDPPST_proNumberInvalid_initialText,"Please enter the %s digit PRO Number"
+PDPPST_proNumberInvalid_initialTextMinMax,"Please enter the %1$s-%2$s digit PRO Number"
+PDPPST_proNumberInvalid_invalidText,"Invalid PRO Number entry"
+PDPPST_proNumberInvalid_noDigit_InitialText,"Please enter the PRO Number"
+PDPPST_proNumberInvalid_shortText,"Please enter %s more digits"
+PDPPST_proNumberIsValid,"Valid PRO Number entry"
+PDPPST_proNumberLayout_hint,"Enter PRO Number"
+PDPPST_proNumberLayout_title,"PRO Number"
+PDPPST_refusedContainer,Refused
+PDPPST_titleText,"Bill of Lading Information"
+PDPPST_zipCodeError,"Error: Invalid zip code entered."
+PDPPST_zipCode_CA_hint,"Enter Canadian Zip Code"
+PDPPST_zipCode_US_hint,"Enter US Zip Code"
+PDPPST_zipCode_hint,"Enter Zip Code"
+PDPPST_zipCode_title,"Destination Zip Code"
+PDPSHC_cantAddNewShipment,"Must complete all assigned shipments before adding a new one"
+PDPSHC_cantAddNewShipment,"Must complete all assigned shipments before adding a new one"
+PDPSHC_delivery,DELIVERY
+PDPSHC_delivery,DELIVERY
+PDPSHC_infoTab_title,"%1$s INFORMATION"
+PDPSHC_pickup,PICKUP
+PDPSHC_pickup,PICKUP
+PDPSHC_processTab_title,"PROCESS %1$s"
+PDPSHC_processTab_titleNew,"PROCESS NEW %1$s"
+PDRA_lunchAlreadyReattempting,"A new lunch stop request is pending. Please wait for it to finish."
+PDRA_mergeStops_error_noConnection,"You must be connected to the internet to Merge Stops."
+PDRA_mergeStops_error_unknown,"An unknown error has occurred. Please call your dispatcher."
+PDRA_mergeStops_selectStops_infoText,"The first selection will be the stop location."
+PDRA_mergeStops_selectStops_text,"Select the stops to merge."
+PDRA_reattemptStop_error_noConnection,"You must be connected to the internet to Reattempt Stop."
+PDRA_returnToTerminal_error_invalidStatus,"Your route is not in a status that allows this action. Please check that you have begun your route."
+PDRA_returnToTerminal_error_lunchInterrupted,"You have an interrupted lunch stop. You must reattempt, then complete or skip your lunch before you can return to terminal."
+PDRA_returnToTerminal_error_lunchNotComplete,"You have uncompleted lunch stops. You must complete or skip your lunch before you can return to terminal."
+PDRA_returnToTerminal_error_noConnection,"You must be connected to the internet to Force Return To Terminal"
+PDRA_returnToTerminal_error_unknown,"An unknown error has occurred. Please call your dispatcher."
+PDRCV_allStopsComplete,"All Stops Complete!"
+PDRCV_routeComplete,"Route Complete!"
+PDREDF_endRoute_Title,"Finish Route %1$s"
+PDREDF_endRoute_Title,"Finish Route %1$s"
+PDREDF_endRoute_Title_noRouteName,"Finish Route"
+PDREDF_endRoute_Title_noRouteName,"Finish Route"
+PDREDF_endRoute_button,"Finish Route"
+PDREDF_endRoute_button,"Finish Route"
+PDRF_actionsAddPro,"Add pro number"
+PDRF_actionsAddStop,"Add stop"
+PDRF_actionsDialogHeader,"Route Actions: %1$s"
+PDRF_actionsManifestNote,"Edit Manifest Note"
+PDRF_actionsMergeStops,"Merge stops"
+PDRF_actionsReturnToTerminal,"Return to terminal"
+PDRF_actionsViewOtherRoutes,"View my other routes"
+PDRF_addProInputHintText,"Pro Number"
+PDRF_addProInputTitleText,"Enter Existing Pro Number"
+PDRF_addProLabelText,"Add Pro Number"
+PDRF_addProNumberErrorAlreadyCompleted,"PRO Number already completed. Please call your dispatcher."
+PDRF_addProNumberErrorAlreadyOnRoute,"PRO Number already on your route."
+PDRF_addProNumberErrorNotEntered,"Please enter a PRO Number."
+PDRF_addProNumberErrorNotFound,"PRO Number not found. Please call your dispatcher."
+PDRF_addProNumberErrorServer,"An unexpected error has occurred. Please try again or call your dispatcher."
+PDRF_addProNumberErrorUnknown,"An unknown error has occurred. Please call your dispatcher."
+PDRF_addProNumberInternetRequired,"You must be online to add a PRO Number."
+PDRF_addProNumberSuccess,Success
+PDRF_addStopCancelButtonText,Cancel
+PDRF_addStopFinishButtonText,"Finish Adding Stop"
+PDRF_addStopInputHintText,"Customer Name (optional)"
+PDRF_addStopInternetRequired,"You must be online to add a new stop."
+PDRF_addStopLabelText,"Add Stop Details"
+PDRF_addStopText,"Add Stop"
+PDRF_arrivedTime,"Arrived at %1$s"
+PDRF_cannotStartRearrange,"All stops are resolved, nothing to reorder."
+PDRF_checkstopText,Checkstop
+PDRF_departedTime,"Completed at %1$s"
+PDRF_eta,"ETA %1$s"
+PDRF_forceReturnToTerminalLoadingDialogText,"Processing return to terminal…"
+PDRF_illegalReorderSameDay,"A same day delivery cannot be ordered before the matching pickup."
+PDRF_lunchStopInProgress,"This lunch stop is in progress. Use the Next Stop tab to complete or interrupt your lunch."
+PDRF_lunchText,Lunch
+PDRF_noConnectionError,"You must be online to change your route stop order."
+PDRF_otherLunchNotResolved,"There is an unresolved lunch on your route. You cannot reattempt a lunch stop while another is pending"
+PDRF_otherLunchSkipped,"You have a skipped lunch on your Route. You cannot reattempt your lunch."
+PDRF_otherLunchSuccessful,"You have already completed your lunch successfully"
+PDRF_rearrangeCancelToast,"Rearrange route canceled."
+PDRF_rearrangeSuccessToast,"Rearrange route successful!"
+PDRF_reattemptLunchStop,"This action will create a new lunch stop on your route.\nAre you sure you want to reattempt this lunch?"
+PDRF_reattemptLunchStopRouteError,"An error fetching route data has occurred. Please try again or call your dispatcher."
+PDRF_reattemptStopErrorOffline,"You must be online to reattempt stop"
+PDRF_relayText,Relay
+PDRF_routeActions,"Change Route"
+PDRF_sameDayLabel,"Same Day Shipment"
+PDRF_sameDayPickupNotYetFinished,"This stop contains a same day delivery. You must first complete the matching pickup."
+PDRF_startTimeToEndTime,"%1$s - %2$s"
+PDRF_stopItem_pdIndicatorImg_default,"Pickup or Delivery Indicator"
+PDRF_stopItem_stopAddress_default,"Not available"
+PDRF_stopItem_stopName_default,"Not available"
+PDRF_stopItem_stopNumber_default,-
+PDRF_stopItem_stopTime_appt,"Appt %1$s - %2$s"
+PDRF_stopItem_stopTime_close,"%1$s - %2$s"
+PDRF_stopItem_stopTime_default,"—:— - —:—"
+PDRF_stopItem_stopTime_endOnly,"Closes %1$s"
+PDRF_stopItem_stopTime_startOnly,"Opens %1$s"
+PDRF_terminalItem_title_default,—
+PDRF_terminalItem_viewOtherRoutes,"View my other routes"
+PDRF_thisLunchWasSkipped,"You may only create a new lunch when the previous lunch was interrupted. This lunch was skipped."
+PDRF_titleForceReturnToTerminal,"Force Return To Terminal"
+PDRF_titleReattemptStop,"Reattempt Stop"
+PDRF_warningForceReturnToTerminal,"Confirm non-attempt of remaining stops on this manifest and return to terminal."
+PDRF_warningReattemptStop,"This action will create a new stop on your route.\nAre you sure you want to reattempt this stop?"
+PDRLV_routeLoading,"Searching for Routes"
+PDRLV_routeLoading,"Searching for Routes"
+PDRMV_navigateToTerminal,"Navigate to Terminal"
+PDRMV_routeMissing,"No Route Assigned"
+PDRSL_aborted,"Route Aborted"
+PDRSL_at,"At %1$s"
+PDRSL_atTerminal_arrived,"Arrived Terminal"
+PDRSL_atTerminal_departing,"Departing Terminal"
+PDRSL_closed,"Route Closed"
+PDRSL_completed,"Route complete"
+PDRSL_drivingTo,"Driving to %1$s"
+PDRSL_inactive,"Route inactive"
+PDRSL_notStarted,"Route not started"
+PDRSL_planning,Planning
+PDRSL_returningToTerminal,"Returning to terminal"
+PDRSL_stopsComplete,"Stops complete"
+PDSC_completeTime,"Complete Time"
+PDSC_detentionTime_title,DETENTION
+PDSC_exchangeTime_title,"EXCHANGE TIME"
+PDSC_jobSummary,"Job Summary:"
+PDSC_minutesAbbr,"%1$s min"
+PDSC_nextStop,"Next Stop:"
+PDSC_signedBy,"Signed By:"
+PDSC_stopArriveTime,"Arrive Time"
+PDSC_stopCancelled,"Stop Canceled"
+PDSC_title_text,"Stop Complete!"
+PDSC_totalStopTime,"Total Time"
+PDSC_totalTime_title,"TOTAL TIME"
+PDSC_view_timeTitle_default,Time
+PDSC_view_timeValue_default,0m
+PDSD_formattedAddress,"Geocoded at %1$s"
+PDSD_locationDetails_liftgateNotRequired,"Liftgate not required"
+PDSD_locationDetails_liftgateRequired,"Liftgate required"
+PDSD_locationDetails_titleText,"Location Details"
+PDSD_notGeocoded,"Unable to geocode address"
+PDSD_reattemptLunchRequested_message,"Lunch Stop Requested"
+PDSD_reattemptStopRequested_message,"Reattempt Stop Requested"
+PDSD_relayDetails_titleText,"Relay Details"
+PDSD_shipmentDetails_titleText,"Associated Shipments"
+PDSD_stopDetails_connector,",\u0020"
+PDSD_stopDetails_hazardInfo,"hazardous materials"
+PDSD_stopDetails_palletInfo,"%1$s pallets"
+PDSD_stopDetails_phoneNumber,"%1$s %2$s"
+PDSD_stopDetails_shipmentsInfo,"%1$s shipments"
+PDSD_stopDetails_titleText,"Stop Details"
+PDSD_stopDetails_weightInfo,%1$slb
+PDSFC_cancelledPrefix,"Canceled - "
+PDSHDI_info_textDefault,-
+PDSHDL_locationAddress_default,"Not Available"
+PDSHDL_locationName_default,"Not Available"
+PDSHD_comments,comments
+PDSHD_commentsLayout_title,Comments
+PDSHD_consigneeLayout_title,Consignee
+PDSHD_infoText_nextLine,"\n"
+PDSHD_instructions,instructions
+PDSHD_instructionsLayout_title,Instructions
+PDSHD_noEntryText,"No %s for this shipment"
+PDSHD_noTags_text,"Shipment has no tags"
+PDSHD_productTableHeader_description,Description
+PDSHD_productTableHeader_pallets,Pallets
+PDSHD_productTableHeader_pieces,Pieces
+PDSHD_productTableHeader_weight,Weight
+PDSHD_productsLayout_title,Product
+PDSHD_shipmentReference_title,"Shipment Reference"
+PDSHD_shipperLayout_title,Shipper
+PDSHD_tagsLayout_title,"Shipment Tags"
+PDSHD_title_default,-
+PDSHI_addDelivery,Delivery
+PDSHI_addNewShipmentDetail,"Add New Pickup or Delivery"
+PDSHI_addNewShipment_pickupOnly,"Add New Pickup"
+PDSHI_addNewShipment_pickupOnly,"Add New Pickup"
+PDSHI_addPickup,Pickup
+PDSHI_addPickupRequest,"Add Pickup Request"
+PDSHI_addSwap,Swap
+PDSHI_deliveryStatusPlaceholder,"Delivery Not Complete"
+PDSHI_destinationTerm,"Dest: &lt;b>%1$s&lt;/b>"
+PDSHI_destinationTerminal,"Dest: %1$s"
+PDSHI_destinationTerminalBold,"Dest: &lt;b>%1$s&lt;/b>"
+PDSHI_destinationTerminalBold,"Dest: <b>%1$s</b>"
+PDSHI_destinationZip,"Dest: &lt;b>%1$s&lt;/b>"
+PDSHI_destinationZipAndTerm,"Dest: &lt;b>%1$s, %2$s&lt;/b>"
+PDSHI_destinationZipAndTerminal,"Dest: %1$s, %2$s"
+PDSHI_destinationZipAndTerminalBold,"Dest: &lt;b>%1$s, %2$s&lt;/b>"
+PDSHI_destinationZipAndTerminalBold,"Dest: <b>%1$s, %2$s</b>"
+PDSHI_destinationZipCode,"Dest: %1$s"
+PDSHI_destinationZipCodeBold,"Dest: &lt;b>%1$s&lt;/b>"
+PDSHI_destinationZipCodeBold,"Dest: <b>%1$s</b>"
+PDSHI_pickupStatusPlaceholder,"Pickup Not Complete"
+PDSHI_proNumber_text,"PRO #%1$s"
+PDSHI_productDetails_defaultText,"Not Available"
+PDSHI_rightChevron_contentDescription,Open
+PDSHI_scacTo,"SCAC to: &lt;b>%1$s&lt;/b>"
+PDSHI_scacTo,"SCAC to: <b>%1$s</b>"
+PDSHI_scacToDefaultText,"SCAC to: DOHR"
+PDSHI_shipmentId_defaultText,-
+PDSHI_shipmentNoDescription,"No description"
+PDSHI_shipmentReference_text,"REF #%1$s"
+PDSHI_shipmentStatus_contentDescription,"Shipment Status"
+PDSHI_typeImage_contentDescription,"Shipment Type"
+PDSHI_zero,0
+PDSII_geocodeText,"Unable to geocode address"
+PDSII_textDefault,"Not Available"
+PDSI_titleText_default,-
+PDSPC_accRequired,"Attempted - ACC Required"
+PDSPC_cancelledAppointmentNeeded,"Canceled - Appointment Needed"
+PDSPC_cancelledBadAddress_text,"Canceled - Bad Address"
+PDSPC_cancelledClosedDueToWeather,"Canceled - Closed Due To Weather"
+PDSPC_cancelledClosedForHoliday,"Canceled - Closed for Holiday"
+PDSPC_cancelledClosedForInventory,"Canceled - Closed for Inventory"
+PDSPC_cancelledCustomerRequest,"Canceled - Customer Request"
+PDSPC_cancelledDeliverTomorrow,"Canceled - Deliver Tomorrow"
+PDSPC_cancelledForcedReturnToTerminal,"Forced Return To Terminal"
+PDSPC_cancelledFreightReturnedToDock,"Canceled - Freight Returned To Dock"
+PDSPC_cancelledLiftGateRequired_text,"Canceled - Lift Gate Required"
+PDSPC_cancelledLocationClosed_text,"Canceled - Location Closed"
+PDSPC_cancelledMissedAppt_text,"Canceled - Missed Appointment"
+PDSPC_cancelledNoFreight,"Canceled - No Freight"
+PDSPC_cancelledOther_text,"Canceled - Other"
+PDSPC_cancelledPickUpTomorrow,"Canceled - PU Next Bus Day"
+PDSPC_cancelledResidentNotHome,"Canceled - Resident Not Home"
+PDSPC_cancelledSpecialEquipmentNeeded,"Canceled - Special Equipment Needed"
+PDSPC_cancelledUnableToContact_text,"Canceled - Unable to Contact"
+PDSPC_cancelledWaitTimeTooLong,"Canceled - Wait Time Too Long"
+PDSPC_closedBeyondBusinessHours,"Closed - Beyond Business Hours"
+PDSPC_closedContainer,"Refused - Closed"
+PDSPC_closedHoliday,"Closed - Holiday"
+PDSPC_closedInventory,"Closed - Inventory"
+PDSPC_closedStrike,"Closed - Strike"
+PDSPC_closedWeather,"Closed - Weather"
+PDSPC_completeAgain,"Complete Again"
+PDSPC_completeAgainDialogMessage,"Are you sure that you want to process this shipment again?"
+PDSPC_completeAgainDialogNegative,No
+PDSPC_completeAgainDialogPositive,Yes
+PDSPC_completeAgainDialogTitle,"Process Shipment Again?"
+PDSPC_consigneeClosedAfter5,"Canceled - Consignee closed - after 5pm"
+PDSPC_consigneeClosedBefore5,"Canceled - Consignee closed - before 5pm"
+PDSPC_customerNoLongerWants,"Refused - Customer No Longer Wants"
+PDSPC_deliveredDamagedShort_text,"Delivered - Damaged + Short"
+PDSPC_deliveredDamaged_text,"Delivered - Damaged"
+PDSPC_deliveredNoProblems_text,"Delivered - No Problems"
+PDSPC_deliveredOther_text,"Delivered - Other Issue"
+PDSPC_deliveredOutsideMaven_text,"Delivered - Completed Outside Maven"
+PDSPC_deliveredOver_text,"Delivered - Over"
+PDSPC_deliveredPartialRefusal_text,"Delivered - Partial Refusal"
+PDSPC_deliveredPartialRefusal_text,"Delivered - Partial Refusal"
+PDSPC_deliveredShort_text,"Delivered - Short"
+PDSPC_didNotAttempt,"Canceled - Did not attempt"
+PDSPC_duplicateShipment_text,"Canceled - Duplicate Shipment"
+PDSPC_failedCutOff_text,"Cut Off"
+PDSPC_failedNoFreight_text,"No Freight"
+PDSPC_failedPickUpTomorrow_text,"Pick Up Tomorrow"
+PDSPC_failed_DuplicateOrder,"Duplicate Order"
+PDSPC_failed_PickUpNextBusDay,"PU Next Bus Day"
+PDSPC_failed_ShipperClosed,"Shipper Closed"
+PDSPC_needsAppointment,"Refused - Needs Appt"
+PDSPC_newShipmentError_text,"There was a problem with the new shipment"
+PDSPC_pickedUpDamagedShort_text,"Picked Up - Damaged + Short"
+PDSPC_pickedUpDamaged_text,"Picked Up - Damaged"
+PDSPC_pickedUpNoProblems_text,"Picked Up - No Problems"
+PDSPC_pickedUpOther_text,"Picked Up - Other Issue"
+PDSPC_pickedUpShort_text,"Picked Up - Short"
+PDSPC_refusedCollectionIssue_text,"Refused - Collection Issue"
+PDSPC_refusedContainer,Refused
+PDSPC_refusedDamaged_text,"Refused - Damaged"
+PDSPC_refusedDeliverTomorrow_text,"Refused - Deliver Tomorrow"
+PDSPC_refusedDuplicateOrder,"Refused - Duplicate Order"
+PDSPC_refusedNoFreight,"No Freight"
+PDSPC_refusedNoFreight,"No Freight"
+PDSPC_refusedNotOrdered,"Refused - Not Ordered"
+PDSPC_refusedOrderCanceled,"Refused - Order Canceled"
+PDSPC_refusedOther_text,"Refused - Other"
+PDSPC_refusedPartial_text,"Partial Refusal"
+PDSPC_refusedShippedEarly,"Refused - Shipped Early"
+PDSPC_refusedShippedLate,"Refused - Shipped Late"
+PDSPC_refusedShort_text,"Refused - Short"
+PDSPC_refusedWrongItem,"Refused - Wrong Item"
+PDSPC_refusedWrongLocation,"Refused - Wrong Location"
+PDSPC_refused_NoFunds_text,"Refused - No Funds"
+PDSPC_refused_NoFunds_text,"Refused - No Funds"
+PDSPC_shipperClosedLate,"Canceled - Shipper closed - arrived late"
+PDSPC_shipperClosedOnTime,"Canceled - Shipper closed - arrived on time"
+PDSPC_status_default,Unknown
+PDSPC_titleDefault_text,"Shipment Process Complete"
+PDSPC_titleDelivery_text,"Delivery Processed"
+PDSPC_titlePickup_text,"Pickup Processed"
+PDSPC_trailerSwappedNoProblems_text,"Trailer Swapped - No Problems"
+PDSPC_unableAccessDifferentEquipment,"Attempted - Unable to Access"
+PDSPC_unableToAccessLocation,"Canceled - Unable to access location"
+PDSS_stopStatusButton_completeRelayStatusText,"Complete Relay"
+PDSTF_enterDroppedTrailerNumber,"Enter dropped trailer numbers:"
+PDSTF_enterOtherDriverName,"Enter the name of the other driver:"
+PDSTF_enterPickedUpTrailerNumber,"Enter hooked trailer numbers:"
+PDSTF_finishButton_text,"Finish Swap"
+PDSTF_title_text,"Swap Trailers"
+PDTDF_actionButton,"Depart Terminal"
+PDTDF_actionButton,"Depart Terminal"
+PDTDF_departTerminalTitle,"Departing from %1$s terminal"
+PDTDF_departTerminalTitle,"Departing from %1$s terminal"
+PDTDF_manifestNumberString,"Route: %1$s"
+PDTDF_truckInformation_title,"Truck Information"
+PDTDF_truckMileage_hint,"Truck Mileage"
+PDTDF_truckMileage_title,"Truck Mileage"
+PDTDF_truckNumber_hint,"Truck Number"
+PDTEDF_EndingTerminalNamePrefix,"En route to %1$s terminal"
+PDTEDF_arriveAndEndRoute_button,"Complete Route"
+PDTSDF_StartingTerminalNamePrefix,"Depart from %1$s Terminal"
+PDTSDF_beginRoute_button,"Begin Route"
+PDTSDF_beginRoute_button,"Begin Route"
+PDTSDF_beginRoute_title,"Begin Route %1$s"
+PDTSDF_beginRoute_title,"Begin Route %1$s"
+PDTSDF_departAndBeginRoute_button,"Begin Route"
+PDTSDF_errorMissingTrailer,"Please enter a trailer number or mark that you are not pulling a trailer"
+PDTSDF_errorMissingTruckMileage,"Please enter a mileage greater than zero"
+PDTSDF_errorMissingTruckNumber,"Please enter a truck number"
+PDTSDF_errorTruckMileageInvalid,"The mileage you have entered is invalid"
+PDTSDF_errorTruckMileageInvalid,"The mileage you have entered is invalid"
+PDTSDF_noTrailer_radioButton,"I am not pulling a trailer on this route."
+PDTSDF_trailerInformation_title,"Trailer Information"
+PDTSDF_trailerNumber_hint,"Trailer Number"
+PDUTG_contentText,"You can still complete the stop, but we can't show you this address's location on the map"
+PDUTG_contentText_terminalArrive,"You can still arrive at the terminal, but we can't show you the location on the map"
+PDUTG_contentText_terminalDepart,"You can still depart from the terminal, but we can't show you the location on the map"
+PDUTG_imageContentDescription,"Unable to Geocode"
+PDUTG_titleText,"We can't figure out the location of this address."
+PDVOR_chevron_contentDesc,"Other route right chevron"
+PDVOR_errorToast,"Unable to connect to server to retrieve route information"
+PDVOR_routeNameDefaultText,--
+PDVOR_stopsNumberDefaultText,0
+PDVOR_stopsTextDefaultText,"stops left"
+PDVOR_titleText,"Select Route"
+PD_ELD_autoLunchCanceled,"Automatic Lunch Canceled"
+PD_ELD_autoLunchComplete,"Automatic Lunch Completed"
+PD_ELD_autoLunchStart,"Automatic Lunch Started"
+PD_ETV_editText_titleDefault,-
+PD_PDV_textDefault,-
+PD_PIV_phoneLabel_textDefault,-
+PD_PIV_phoneNumber_textDefault,-
+PD_PR_shipmentRecomplete_success,"Shipment successfully updated."
+PD_SDH_drawable_addSwap_text,"ADD SWAP"
+PD_SDH_drawable_bulkComplete_text,"BULK COMPLETE"
+PD_SDH_drawable_call_text,CALL
+PD_SDH_drawable_cancelStop_text,"CANCEL STOP"
+PD_SDH_drawable_interruptLunch_text,"INTERRUPT LUNCH"
+PD_SDH_drawable_makeNextStop_text,"MAKE NEXT STOP"
+PD_SDH_drawable_openInMaps_text,"OPEN IN MAPS"
+PD_SDH_drawable_reAttemptStop_text,"RE-ATTEMPT STOP"
+PD_SDH_drawable_skipLunch_text,"SKIP LUNCH"
+PD_SDH_drawable_stopInfo_text,"STOP INFO"
+PD_SDH_mapsNavigationPrompt,"Use the back button to return to Maven!"
+PD_SDH_mapsNotInstalled,"Error: Maps is not installed on this device"
+PD_SDH_openMap_contentDesc,"Open Address in Google Maps"
+PD_SDH_stopAddress_default,"Not Available"
+PD_SDH_stopName_default,"Not Available"
+PD_SDH_stopTime_appt,"Appt %1$s - %2$s"
+PD_SDH_stopTime_close,"Closes %1$s"
+PD_SDH_stopTime_default,"Closes —:—"
+PD_SHLF_processing_text,"Processing Bulk Completion"
+PD_alphaExtraChars,'.-
+PPF_brakeAlertValue,"%d MPH per second"
+PPF_brakeAlerts,"Brake Alerts"
+PPF_coPilotSettings,"Co-Pilot Settings"
+PPF_currentRulesetLabel,"Current Ruleset"
+PPF_driverRulesetText,"Driver Ruleset"
+PPF_eldSettings,"ELD Settings"
+PPF_lowScoreWarnings,"Low Score Warnings"
+PPF_settingDisabled,Disable
+PPF_settingEnabled,Enabled
+PPF_settingsTitle,"App Settings"
+PPF_timeZone,"Time Zone"
+PPF_verbalScoreAlertValue,"Every %d seconds"
+PPF_verbalScoreAlerts,"Verbal Score Alerts"
+PREFACT_editAppSettings,"Edit App Settings"
+RLC_foodstuff_text,Foodstuff
+RLC_hazmat_text,Hazmat
+RLC_overlength_text,Overlength
+RLC_pff_text,PFF
+RLC_poison_text,Poison
+RLC_title_text,"Restricted Loading"
+RMA_CERTIFY_LOG_QUESTION,"Log successfully certified!"
+RMA_Cancel_email,"No Thanks"
+RMA_ELD_OFF_DUTY_QUESTION,"Good job on your day!"
+RMA_END_ROUTE_QUESTION,"Good job completing your route!"
+RMA_SUBMIT_BUTTON,Submit
+RMA_apology,"We're sorry you're not satisfied. Can you tell us more about your rating?"
+RMA_auto_feeback_email_address,clientservices@mavenmachines.com
+RMA_cancel,Cancel
+RMA_description,"Done with your workday?"
+RMA_email_customer_support,"Email Customer Support"
+RMA_neg_button_text,Cancel
+RMA_play_store_prompt,"We'd love a review on the Google Play Store"
+RMA_pos_button_text,Submit
+RMA_prompt,"Let us know how you like Maven"
+RMA_rating_instructions,"Tap a star to rate from 1 to 5"
+RMA_review_later,"Remind Me Later"
+RMA_thanks,Thanks!
+RMA_title,"Let us know how you like Maven"
+RMA_write_a_review,"Write a Review"
+RPF_updating,Updating…
+SV_defaultString,"This is a success view box. Write a success message here."
+SW_requiredError,"A signature is required"
+ServerComm_badRequest_apiNotSupported,"API not supported."
+ServerComm_noInternetConnectionFound,"No internet connection detected."
+SignatureActivity_cancelButton,Cancel
+SignatureActivity_clearButton,Clear
+SignatureActivity_saveButton,Confirm
+SignatureActivity_saveNotActivated,"Please write your signature"
+TCTCF_vehicleText,Vehicle
+TC_noVehicle,"No Vehicle"
+TC_vdaConnected,Connected
+TC_vdaNotConnected,"Not Connected"
+TLF_networkIndicator_offline,"You are currently offline."
+TLF_tabLayout_dvir_tabText,DVIR
+TLF_tabLayout_eld_tabText,HOS
+TLF_tabLayout_iconContentDescription,"Tab Icon"
+TLF_tabLayout_map_tabText,Map
+TLF_tabLayout_map_tabText,Map
+TLF_tabLayout_messages_tabText,Messages
+TLF_tabLayout_pdNextStop_tabText,"Next Stop"
+TLF_tabLayout_pdNextStop_tabText,"Next Stop"
+TLF_tabLayout_pdRoute_tabText,Route
+TLF_tabLayout_safety_tabText,Safety
+TLF_tabLayout_tmw_tabText,Dispatch
+TLF_tabLayout_workflow_tabText,Workflow
+TLF_toolbarEld_defaultStatus,--
+TLF_toolbarEld_statusTitle,HOS
+TLF_toolbarVehicleTitle,Vehicle
+TLF_toolbarVehicleTitle,Vehicle
+TNF_PD_acceptRoute,"ACCEPT ROUTE"
+TNF_PD_acceptStop,"ACCEPT STOP"
+TNF_PD_arriveTerminal,"Arrive at Terminal"
+TNF_PD_arrivedAt,"Arriving at %1$s"
+TNF_PD_arrivedAtLocationAtTime,"Arriving at %1$s at %2$s"
+TNF_PD_atTime,"at %1$s"
+TNF_PD_confirmRoute,"CONFIRM ROUTE"
+TNF_PD_departTerminal,"Depart from Terminal"
+TNF_PD_departedAt,"Departing %1$s"
+TNF_PD_departedAtLocationAtTime,"Departing %1$s at %2$s"
+TNF_PD_dismissText,Dismiss
+TNF_PD_dontArrive,"Don't Arrive"
+TNF_PD_dontDepart,"Don't Depart"
+TNF_PD_goToMessagesText,"Go to Messages"
+TNF_PD_lunchStopAddedSecondaryText,Lunch
+TNF_PD_lunchStopAddedText,"Stop Added: Lunch"
+TNF_PD_lunchStopAddedTitleText,"Stop Added"
+TNF_PD_markAsArrived,"Mark as Arrived"
+TNF_PD_markAsDeparted,"Depart Stop"
+TNF_PD_multipleStopsAddedContentText,"%1$s stops added to route"
+TNF_PD_multipleStopsAddedSystemContentText,"Stops Added: %1$s stops were added to your route."
+TNF_PD_multipleStopsAddedTitleText,"Stops Added"
+TNF_PD_routeAddedManifestNumber,"Manifest Number: %1$s"
+TNF_PD_routeAddedRouteName,"Name: %1$s"
+TNF_PD_routeAddedSystemContentText,"Route Added: %1$s"
+TNF_PD_routeAddedTitleText,"Route Added"
+TNF_PD_routeRearrangedContentText,"Please check your route list for details"
+TNF_PD_routeRearrangedSystemContentText,"Route Rearranged: Please check your route list for details!"
+TNF_PD_routeRearrangedTitleText,"Route Rearranged"
+TNF_PD_stopAddedContentText,"%1$s\n%2$s miles away"
+TNF_PD_stopAddedSystemContentText,"Stop Added: %1$s, %2$s miles away"
+TNF_PD_stopAddedSystemContentTextNoLocation,"Stop Added: %1$s"
+TNF_PD_stopAddedTitleText,"Stop Added"
+TNF_PD_stopCancelledContentText,"%1$s stop canceled"
+TNF_PD_stopCancelledContentText,"%1$s stop canceled"
+TNF_PD_stopCancelledSystemContentText,"Stop Canceled: %1$s"
+TNF_PD_stopCancelledSystemContentText,"Stop Canceled: %1$s"
+TNF_PD_stopCancelledTitleText,"Stop Canceled"
+TNF_PD_stopCancelledTitleText,"Stop Canceled"
+TNF_PD_stopMergedContentText,"%1$d stops merged into %2$s"
+TNF_PD_stopMergedContentText,"%1$d stops merged into %2$s"
+TNF_PD_stopMergedSystemContentText,"Stop Merged: %1$s"
+TNF_PD_stopMergedSystemContentText,"Stop Merged: %1$s"
+TNF_PD_stopMergedTitleText,"Stop Merged"
+TNF_PD_stopMergedTitleText,"Stop Merged"
+TNF_PD_stopModifiedContentText,"%1$s stop modified"
+TNF_PD_stopModifiedContentText,"%1$s stop modified"
+TNF_PD_stopModifiedSystemContentText,"Stop Modified: %1$s"
+TNF_PD_stopModifiedSystemContentText,"Stop Modified: %1$s"
+TNF_PD_stopModifiedTitleText,"Stop Modified"
+TNF_PD_stopModifiedTitleText,"Stop Modified"
+TNF_PD_stopRemovedContentText,"%1$s removed from route"
+TNF_PD_stopRemovedSystemContentText,"Stop Removed: %1$s"
+TNF_PD_stopRemovedTitleText,"Stop Removed"
+TNF_PD_stopSplitContentText,"%1$s stop split into 2 stops"
+TNF_PD_stopSplitSystemContentText,"Stops Split: %1$s"
+TNF_PD_stopSplitTitleText,"Stops Split"
+TNF_continueDriving,"CONTINUE DRIVING"
+TNF_dismiss,DISMISS
+TNF_goOnDuty,"GO ON DUTY"
+TNF_inViolationText_break,"HOS Violation - 30 minute break needed"
+TNF_inViolationText_cycle,"HOS Violation - 70 hour cycle time exceeded"
+TNF_inViolationText_drive,"HOS Violation - 11 hour drive time exceeded"
+TNF_inViolationText_shift,"HOS Violation - 14 hour shift time exceeded"
+TNF_statusChangedText,"Your duty status has automatically been changed to Driving."
+TNF_stopDetectedText,"Stop detected. Your duty status will soon be changed to On Duty unless noted otherwise."
+TNF_violationAudioWarning_other,"Aitch O Ess Violation approaching. Please stop driving in the next %s."
+TNF_violationAudioWarning_shift,"Aitch O Ess Violation approaching. Please go off duty in the next %s."
+TNF_violationWarning_others,"HOS Violation approaching. Please stop driving in the next %s."
+TNF_violationWarning_shift,"HOS Violation approaching. Please go off duty in the next %s."
+UAFleftChevronDesc,Back
+UAFrightChevronDesc,forward
+UDNL_claimAllButtonText,"Claim All"
+UDNL_claimButtonText,Claim
+UDNL_claimUnassignedTripsTitleText,"Unassigned Movements For Vehicle %s"
+UDNL_ignoreAllButtonText,"Ignore All"
+UDNL_ignoreButtonText,Ignore
+UDNL_notificationBodyText,"%1$s today. %2$s this past week."
+UDNL_notificationTitle,"%s has Unassigned Movements"
+UDNL_viewUnassignedMovementsText,View
+UPN_systemNotification_contentText,"Hey %1$s, tap to update Maven"
+UPN_systemNotification_contentTitle,"New Updates Available"
+Update,UPDATE
+VDF_changeTruckNumber,"CHANGE TRUCK INFO"
+VDF_changeTruckNumberLayout_truckNumHeader,"TRUCK/TRACTOR NUMBER"
+VDF_changeTruckNumberLayout_value_default,----
+VDF_changeTruckNumberLayout_vinHeader,VIN
+VDF_descText,"VEHICLE INFORMATION"
+VDF_disconnectButton_text,"UNPAIR MAVEN VDA #%1$s"
+VDF_disconnectButton_textDefault,"UNPAIR MAVEN VDA"
+VDF_disconnectingButtonText,DISCONNECTING…
+VDF_loadingText,Loading…
+VHF_descText1,"The VDA number is the large 4 character code printed on the Maven Vehicle Data Adapter (VDA)."
+VHF_descText2,"Your Maven VDA should be plugged in to your vehicle's diagnostics port (J1939). This port is typically located lower-left of the steering column."
+VHF_fragment_name,"Vehicle Adapter Help"
+VHF_fragment_title,"Tips for Successfully Pairing the Maven App to Your Vehicle"
+VHF_heading1,"Find your vehicle adapter number"
+VHF_heading2,"Make sure your engine is turned on"
+VHF_heading3,"Find your vehicle in the Suggested Vehicles list"
+VHF_heading4,"Vehicle still not appearing? Here are some steps to try"
+VHF_imageContentDesc,"Maven VDA"
+VHF_paragraph1,"The adapter number is the code printed on the vehicle adapter itself. The vehicle adapter is plugged into the vehicle’s J1939 diagnostic port. On some vehicles, the vehicle adapter may be hidden behind the dashboard."
+VHF_paragraph2,"To successfully connect, make sure your vehicle’s engine is turned on."
+VHF_paragraph3,"Tap on the unknown vehicle that has your vehicle adapter number. The Maven App will connect to the vehicle, read the VIN, and create a new vehicle."
+VHF_paragraph4,"1. Ensure you have Bluetooth and Wi-Fi turned on
+\n\n2. If accessible, disconnect and reconnect the vehicle adapter
+\n\n3. Reset the Maven App. Clearing your data will log you out of the Maven App. Make sure you remember your username and password!
+\n\n4. Contact the Maven Driver Success Team at 412-499-3877."
+VNF_closeAlert,"Close Alert"
+VNF_halfHour,0:30
+VNF_hour,1:00
+VNF_remaining,"%1$s remaining"
+VNF_violationHeader,"HOS Violation"
+VNF_violationTitle,"%1$s Time Violation:"
+VNF_warningHeader,"HOS Warning"
+VNF_warningTitle,"%1$s Time Warning:"
+VNF_zero,0:00
+VSLF_attemptingToConnect_default,"Attempting to connect to VDA. Please be patient. Connecting can take up to two minutes."
+VSLF_attemptingToConnect_failedDefault,"Connection to VDA failed."
+VSLF_attemptingToConnect_failedWithTime,"New connection attempt in %1$s."
+VSLF_attemptingToConnect_failedWithVdaNum,"Connection to VDA %1$s failed."
+VSLF_attemptingToConnect_failedWithVdaNumTime,"Connection to VDA %1$s failed. New connection attempt in %2$s."
+VSLF_attemptingToConnect_failedWithVdaTruckNum,"Connection to VDA %1$s (Truck # %2$s) failed."
+VSLF_attemptingToConnect_failedWithVdaTruckNumTime,"Connection to VDA %1$s (Truck # %2$s) failed. New connection attempt in %3$s."
+VSLF_attemptingToConnect_withVdaNum,"Attempting to connect to VDA %1$s. Please be patient. Connecting can take up to two minutes."
+VSLF_attemptingToConnect_withVdaTruckNum,"Attempting to connect to VDA %1$s (Truck # %2$s). Please be patient, this may take up to two minutes."
+VSLF_bluetooth,Bluetooth
+VSLF_bluetoothContentDesc,"Bluetooth Status Icon"
+VSLF_columnName_truck,"Truck #"
+VSLF_columnName_vda,"VDA #"
+VSLF_defaultVdaTruckNum,-
+VSLF_descHeaderText,"Available VDAs"
+VSLF_descText,"Please select which Maven VDA you would like to pair with this device."
+VSLF_devicePairingFailedText,"Failed to pair to VDA %1$s"
+VSLF_devicePairingFailedText_noVdaNum,"Failed to pair to VDA"
+VSLF_errorCode,"Last Error Code: ERR-%1$s. %2$s."
+VSLF_errorCode_default,"Last Error Code: Unknown."
+VSLF_goToSettingsText,<u>SETTINGS</u>
+VSLF_helpLocateVdaNum,"How do I locate my truck's VDA number?"
+VSLF_list_enableSomething,"Please enable WiFi or Bluetooth to see available VDAs."
+VSLF_list_noVDAFound,"No VDAs found nearby."
+VSLF_noDeviceFoundText,"No device found"
+VSLF_pair,PAIR
+VSLF_paired,PAIRED
+VSLF_pairedDevice_connectingDescDefault,"Connecting to VDA"
+VSLF_pairedDevice_connectingDescWithNum,"Connecting to VDA %1$s"
+VSLF_pairedDevice_connectingFailedDefault,"VDA Connection Failed"
+VSLF_pairedDevice_connectingFailedWithNum,"VDA %1$s Connection Failed"
+VSLF_pairedDevice_unpairButton,UNPAIR
+VSLF_vda_item_networkTypeIconDesc,"VDA network type icon"
+VSLF_wifi,WiFi
+VSLF_wifiBluetoothOff,Off
+VSLF_wifiBluetoothOn,On
+VSLF_wifiContentDesc,"WiFi Status Icon"
+WSV_bluetooth,Bluetooth
+WSV_off,Off
+WSV_on,On
+WSV_settings,Settings
+WSV_wifi,Wi-Fi
+YMPC_driveTimeNotRecorded,"Drive time will not be recorded"
+YMPC_enablePersonalConveyance,"Enable Personal Conveyance"
+YMPC_enableYardMoves,"Enable Yard Moves"
+YMPC_personalConveyance,"Personal Conveyance"
+YMPC_yardMoves,"Yard Moves"
+accept,Accept
+acceptInAppNotification,"UPDATE NOW"
+active_battery_speech,"Active talk time remaining %s"
+appDowngradeMessage,"You are using an outdated version of the Maven app. Please download the latest version from the google play store."
+back,Back
+badHTMLReleaseNotesResponse,"<HTML>Sorry. No release notes available</HTML>"
+barrels_definition,barrels
+barrels_short_definition,bbl
+begin_instructions,"To create your Maven account, please enter the 5 digit signup code provided to you by your dispatcher, fleet manager, or safety officer."
+bol::bol,"Bill of Lading"
+bol::damagedDelivery,"Damaged Delivery"
+bol::deliveryReceipt,"Delivery Receipt"
+bol::doc,Document
+brakeNotification,brakeNotification
+brakeNotificationMinimum,brakeNotificationMinimum
+breakImageDescription,Coffee
+breakTaken,"Break Taken"
+call,"Call Us"
+cancel,Cancel
+cancel,Cancel
+change_id_warning,"Are you sure you want to change your Company and Driver ID?"
+charging_speech,"Copilot will be charged in %s"
+charts,Charts
+close,Close
+common::ascending,asc
+common::assigned,Assigned
+common::cancel,Cancel
+common::canceled,Canceled
+common::checkstop,Checkstop
+common::checkstop_other,Checkstops
+common::checkstop_plural,Checkstops
+common::city,City
+common::complete,Complete
+common::consignee,Consignee
+common::delivery,Delivery
+common::delivery_other,Deliveries
+common::delivery_plural,Deliveries
+common::descending,desc
+common::dismiss,Dismiss
+common::driver,Driver
+common::driver_other,Drivers
+common::driver_plural,Drivers
+common::failed,Failed
+common::manifest,Manifest
+common::manifestNumber,"Manifest Number"
+common::manifestNumber,"Manifest Number"
+common::noResults,"No results found"
+common::note,Note
+common::note_other,Notes
+common::note_plural,Notes
+common::pallet,Pallet
+common::palletLower,pallet
+common::palletLower_other,pallets
+common::palletLower_plural,pallets
+common::pending,Pending
+common::pickup,Pickup
+common::pickup_other,Pickups
+common::pickup_plural,Pickups
+common::planningStop,"Planning Stops - "
+common::remove,Remove
+common::required,Required
+common::route,Route
+common::route_other,Routes
+common::route_plural,Routes
+common::shipment,shipment
+common::shipmentCapital,"{""one"":""Shipment"",""other"":""Shipments""}"
+common::shipmentCapital,Shipment
+common::shipmentCapital_other,Shipments
+common::shipmentCapital_plural,Shipments
+common::shipmentInformation,"Shipment Information"
+common::shipment_other,shipments
+common::shipment_plural,shipments
+common::staged,Staged
+common::status,Status
+common::status_other,Statuses
+common::status_plural,Statuses
+common::stop,Stop
+common::stop_other,Stops
+common::stop_plural,Stops
+common::terminal,Terminal
+common::trailer,Trailer
+common::trailer_other,Trailers
+common::trailer_plural,Trailers
+common::trip,trip
+common::trip_other,trips
+common::trip_plural,trips
+common::unassigned,Unassigned
+common::unassingedStops,"Unassigned Stops"
+common::unknown,Unknown
+common::weight,weight
+common::zipCode,"Zip Code"
+companyId,"Company code "
+company_name,"Maven Machines"
+completed_stop_arrival_time,"Arrived at %1$s"
+completed_stop_status,"Stop %1$s at %2$s"
+completed_stop_status_arrived_name,Arrived
+completed_stop_status_completed_name,Completed
+completed_stop_status_departed_name,Departed
+completed_stop_status_incomplete,"Action Required: Stop Incomplete"
+completed_stop_status_skipped,"Stop Skipped"
+completionCodes::addressIncorrect,"Del Attempted - Address Incorrect"
+completionCodes::apptNeeded,"Del Attempted - Appt needed"
+completionCodes::attemptedNoFunds,"Del Attempted - No Funds"
+completionCodes::beyondBusHrs,"Del Attempted - Beyond Bus Hrs"
+completionCodes::cancelDuplicate,"Cancel - Duplicate"
+completionCodes::canceledClosedAfter,"Canceled - Consignee Closed - After 5PM"
+completionCodes::canceledClosedArrivedAfter,"Canceled - Consignee Closed - Arrived After 5PM"
+completionCodes::canceledClosedArrivedBefore,"Canceled - Consignee Closed - Arrived Before 5PM"
+completionCodes::canceledClosedBefore,"Canceled - Consignee Closed - Before 5PM"
+completionCodes::canceledCutOff,"Canceled - Cut Off For Pickup"
+completionCodes::canceledDeliverTomorrow,"Canceled - Deliver Tomorrow"
+completionCodes::canceledDuplicate,"Canceled - Duplicate"
+completionCodes::canceledForceReturn,"Canceled - Force Return To Terminal"
+completionCodes::canceledNoFreight,"Canceled - No Freight"
+completionCodes::canceledNotAttempted,"Canceled - Did Not Attempt"
+completionCodes::canceledTMS,"Canceled By TMS"
+completionCodes::canceledUnableToAccess,"Canceled - Unable to Access Location"
+completionCodes::cancelledClosedArrivedAfter,"Cancelled - Consignee Closed - Arrived After 5PM"
+completionCodes::cancelledClosedArrivedBefore,"Cancelled - Consignee Closed - Arrived Before 5PM"
+completionCodes::cancelledCutOff,"Cancelled - Cut Off For Pickup"
+completionCodes::cancelledOther,"Cancelled - Other"
+completionCodes::cancelledUnableToAccess,"Cancelled - Unable to Access Location"
+completionCodes::collectionIssue,"Not Delivered - Collection Issue"
+completionCodes::cutOff,"Cut Off"
+completionCodes::damagedShort,"Delivered - Damaged and Short"
+completionCodes::delAttemptedNoFreight,"Del Attempted - No Freight"
+completionCodes::delAttemptedOther,"Del Attempted - Other"
+completionCodes::deliveryUnassigned,"Delivery Unassigned"
+completionCodes::didNotAttempt,"Canceled - Did Not Attempt"
+completionCodes::duplicateOrder,"Refused - Duplicate Order"
+completionCodes::emergencyWithName,"Lunch Interrupted - authorized by %1$s"
+completionCodes::holiday,"Del Attempted - Holiday"
+completionCodes::inventory,"Del Attempted - Inventory"
+completionCodes::missedAppt,"Del Attempted - Missed Appt"
+completionCodes::missedApptWindow,"Canceled - Missed Appointment Window"
+completionCodes::needsApt,"Not Delivered - Needs Appt"
+completionCodes::noFreight,"No Freight"
+completionCodes::noFunds,"Not Delivered - No Funds"
+completionCodes::noLongerWants,"Not Delivered - Customer No Longer Wants"
+completionCodes::noProblems,"No Problems"
+completionCodes::notAttempted,"Delivery Not Attempted"
+completionCodes::notDeliveredAccRequired,"Not Delivered - ACC Required"
+completionCodes::notDeliveredDamaged,"Not Delivered - Damaged"
+completionCodes::notDeliveredOther,"Not Delivered - Other"
+completionCodes::notDeliveredShort,"Not Delivered - Short"
+completionCodes::notDeliveredUnableToAccess,"Not Delivered - Unable to Access"
+completionCodes::other,"Canceled - Other"
+completionCodes::outForDelivery,"Out for Delivery"
+completionCodes::pending,Pending
+completionCodes::pickedUpNoProblems,"Picked Up - No Problems"
+completionCodes::pickupTomorrow,"Pick Up Tomorrow"
+completionCodes::pickupUnassigned,"Pickup Unassigned"
+completionCodes::refusedAddrIncorrect,"Refused - Address Incorrect"
+completionCodes::refusedApptNeeded,"Refused - Appointment Needed"
+completionCodes::refusedBusinessHours,"Refused - Beyond Business Hours"
+completionCodes::refusedCollectionIssue,"Refused - Collection Issue"
+completionCodes::refusedHoliday,"Refused - Holiday"
+completionCodes::refusedInventory,"Refused - Inventory"
+completionCodes::refusedMissedAppt,"Refused - Missed Appointment"
+completionCodes::refusedNoFreight,"Refused - No Freight"
+completionCodes::refusedNotHome,"Refused - Resident Not Home"
+completionCodes::refusedOrderCancelled,"Refused - Order Cancelled"
+completionCodes::refusedRedeliver,"Refused - Will Redeliver"
+completionCodes::refusedSpecialEquipment,"Refused - Special Equipment Needed"
+completionCodes::refusedStrike,"Refused - Strike"
+completionCodes::refusedWaitTime,"Refused - Wait Time Too Long"
+completionCodes::refusedWeather,"Refused - Weather"
+completionCodes::resNotHome,"Del Attempted - RES not home"
+completionCodes::scheduledForDelivery,"Scheduled for Delivery"
+completionCodes::scheduledForPickup,"Scheduled For Pickup"
+completionCodes::shipperClosed,"Shipper Closed"
+completionCodes::shipperClosedArrivedLate,"Canceled - Shipper Closed - Arrived Late"
+completionCodes::shipperClosedArrivedOnTime,"Canceled - Shipper Closed - Arrived on Time"
+completionCodes::specEquipReq,"Del Attempted - Spec Equip Req"
+completionCodes::strike,"Del Attempted - Strike"
+completionCodes::tooLongWait,"Del Attempted - Too Long Wait"
+completionCodes::unableToAccess,"Canceled - Unable to Access Location"
+completionCodes::unableToContact,"Canceled - Unable to Contact Shipping Location"
+completionCodes::unknown,"Status Unknown"
+completionCodes::weather,"Del Attempted - Weather"
+completionCodes::willRedeliver,"Del Attempted - Will Redeliver"
+complianceButtonLoadingText,Loading…
+configuration_complete,"Configuration Complete"
+configure,CONFIGURE
+confirm,CONFIRM
+confirm_lowercase,Confirm
+consigneeDetails::address,"Consignee Address"
+consigneeDetails::comments,Comments
+consigneeDetails::consignee,Consignee
+consigneeDetails::contact,"Consignee Contact"
+consigneeDetails::contract,"Consignee Contact"
+consigneeDetails::customerOrderNumber,"Customer Order Number"
+consigneeDetails::deliveryWindow,"Delivery Window"
+consigneeDetails::email,"Consignee Contact Email"
+consigneeDetails::name,"Consignee Name"
+consigneeDetails::name2,$t(name)2
+consigneeDetails::phone,"Consignee Contact Phone"
+consigneeDetails::title,"Consignee Details"
+continue_text,Continue
+copilot_firmware_upgrade_notification,"
+        This update, should only take thirty seconds.
+        When finished, your headset will connect and talk again. Let's begin now!
+    "
+core_workflow_notification_cancel,Cancel
+core_workflow_notification_close_alert,"Close Alert"
+core_workflow_notification_message_stop_added,"New Stop %1$s has been Added"
+core_workflow_notification_message_stop_modified,"A Stop %1$s has been Modified"
+core_workflow_notification_message_stop_removed,"%1$s has been Removed"
+core_workflow_notification_message_trip_added,"A New Trip %1$s was Added"
+core_workflow_notification_message_trip_modified,"%1$s has been modified"
+core_workflow_notification_message_trip_removed,"%1$s has been removed"
+core_workflow_notification_stop_added,"Stop Added"
+core_workflow_notification_stop_arrived,"Arrive at Stop"
+core_workflow_notification_stop_arrived_title,"Stop Arrival"
+core_workflow_notification_stop_departed,"Depart Stop"
+core_workflow_notification_stop_departed_title,"Stop Departure"
+core_workflow_notification_stop_modified,"Stop Modified"
+core_workflow_notification_stop_removed,"Stop Removed"
+core_workflow_notification_trip_added,"Trip Added"
+core_workflow_notification_trip_modified,"Trip Modified"
+core_workflow_notification_trip_removed,"Trip Removed"
+core_workflow_notification_view_stop,"View Stop"
+core_workflow_notification_view_trip,"View Trip"
+cubicfeet_definition,cubicfeet
+cubicfeet_short_definition,ft<sup><small>3</small></sup>
+cubicmeters_definition,cubicmeters
+cubicmeters_short_definition,m<sup><small>3</small></sup>
+currentLocation,"View Current Location"
+currentStatus,"Current Score"
+dateTimeFormat::closes,"closes %1$s"
+dateTimeFormat::closesAt,"Closes at {{endWindow, h:mma}}"
+dateTimeFormat::dayShort,d
+dateTimeFormat::days,%1$sd
+dateTimeFormat::durationText,"%1$sh %1$sm"
+dateTimeFormat::eta,ETA
+dateTimeFormat::hourShort,h
+dateTimeFormat::hourTimeFormat,"h:mm a"
+dateTimeFormat::hours,%1$sh
+dateTimeFormat::messageAtTime,"%1$s at {{displayTime, h:mma}}"
+dateTimeFormat::minuteShort,m
+dateTimeFormat::minutes,%1$sm
+dateTimeFormat::monthYear,"MMMM YYYY"
+dateTimeFormat::opensAt,"Opens at {{startWindow, h:mma}}"
+dateTimeFormat::readyClose,"{{ready, h:mm A}} - {{close, h:mm A}} (ETA)"
+dateTimeFormat::secondShort,s
+dateTimeFormat::seconds,%1$ss
+dateTimeFormat::sevenDayPlus,7d+
+dateTimeFormat::shipmentWindow,"{{ready, h:mm A}} - {{close, h:mm A}}"
+dateTimeFormat::starts,"starts %1$s"
+dateTimeFormat::timeSpan,"{{startWindow, h:mma}} - {{endWindow, h:mma}}"
+dateTimeFormat::timeSpanShort,"%1$s - %1$s"
+dateTimeFormat::yearToDay,YYYY-MM-DD
+decline,Decline
+declineInAppNotification,DISMISS
+detail_average_mc_rate,"{""one"":"""",""other"":""%1$.2f s""}"
+detail_mirror_check_percentage,"{""one"":"""",""other"":""%1$d %%""}"
+details_half,½
+details_half_hour,"½ hr"
+details_half_hour_speech,"Half an hour"
+details_half_speech,"and a half"
+details_hour,hr
+details_hour_speech,"One hour"
+details_hours,hr
+details_hours_speech,hours
+details_not_available,N/A
+details_not_available_speech,"Not Available"
+details_page_title,"Daily Driver Summary"
+details_section_1_title,Overview
+details_section_2_title,"Mirror Checks"
+details_text_app_version,"App Version %1$s"
+details_text_battery_time,"Co-Pilot Battery:"
+details_text_graph_units,"Mirror Checks per Minute"
+details_text_left_mirror_checks,"Left Mirror Checks:"
+details_text_maven_day_score,"Today's Maven Score"
+details_text_miles_driven,"Miles Driven"
+details_text_mirror_check_interval,"Mirror Checks Every:"
+details_text_no_data_graph_message,"You need to provide data for the chart."
+details_text_percent_right_checks,"Right Side Percent:"
+details_text_right_mirror_checks,"Right Mirror Checks:"
+details_text_sweet_spot_graph_title,"Sweet Spot Chart"
+details_text_time_driving,"Time Driving"
+details_text_total_mirror_checks,"Total Mirror Checks:"
+details_under_half_hour,"<½ hr"
+details_under_half_hour_speech,"Under half an hour"
+dismiss,Dismiss
+done,Done
+driveImageDesc,"Driving Status"
+driverID,"Driver ID "
+driverName_unknown,U
+driverRulesetPreferenceKey,driverRuleset
+driverStatuses::specialServices,"Special Services"
+driverStatuses::standard,"Standard Route"
+driverStatuses::unknownDriver,"Unknown Driver"
+driverStatuses::unknownVehicle,"Unknown Vehicle"
+driver_company,"Driver Company"
+driver_name,"Driver Name"
+eld_truck_connection_status,"ELD Device Connection status"
+email,"Email Us"
+email_address,support@mavenmachines.com
+email_or_phone,"Email or Phone Number"
+enter_code,"Enter Your Driver Signup Code"
+enter_company_code_hint,"Company Code"
+enter_driver_id_hint,"Driver ID"
+error_get_trips_connection_failed,"Connection Failed - Check internet connection and try again"
+error_get_trips_error_status,"Server Error - Status code = %1$d - Refresh page and try again or contact Maven Support."
+error_get_trips_parsing_error,"Unknown response - Refresh page and try again or contact Maven Support"
+errors::invalidRequest,"An invalid request was made"
+errors::loadingError,"There was an error loading this page."
+est_definition,EST
+eta_is,"ETA: %1$s"
+eventMap,"Switch To Event Map"
+explanation_location_services,"Location Services are required for the Maven Co-Pilot™ headset to function."
+filters::chips::palletFormat,"%1$s - %1$s pallets"
+filters::chips::timeFormat,"{{timeLow, h:mma}} - {{timeHigh, h:mma}}"
+filters::chips::weightFormat,"%1$s - %1$s lbs"
+filters::completionStatus::all,"All Completion Statuses"
+filters::completionStatus::title,"Completion Status"
+filters::drivers::all,"All Drivers"
+filters::drivers::title,Drivers
+filters::header,Filter
+filters::misc::endTimeTitle,"Window End Time"
+filters::misc::maxValError,"cannot set max less than min"
+filters::misc::minValError,"cannot set min greater than max"
+filters::misc::openTimeTitle,"Window Start Time"
+filters::misc::palletsTitle,Pallets
+filters::misc::resetOption,Reset
+filters::misc::weightTitle,Weight
+filters::noResults,"No results found"
+filters::physicalStatus::all,"All Physical Statuses"
+filters::physicalStatus::title,"Physical Status"
+filters::planningStatus::all,"All Planning Statuses"
+filters::planningStatus::loaded,Loaded
+filters::planningStatus::planning,Planning
+filters::planningStatus::title,"Planning Status"
+filters::planningStatus::unplanned,Unplanned
+filters::routeStatus::all,"All Route Statuses"
+filters::routeStatus::title,"Route Status"
+filters::shipmentTags::all,"All Shipment Tags"
+filters::shipmentTags::title,"Shipment Tags"
+filters::showNonGeocodable,"Show non-geocodable stops"
+filters::statusFilter::label,"Filter statuses by"
+filters::statusFilter::physicalStatus,"PHYSICAL STATUS"
+filters::statusFilter::planningLabel,"PLANNING STATUS"
+filters::stopAssignmentStatus::all,"All Assignment Statuses"
+filters::stopAssignmentStatus::assigned,"Assigned Stops"
+filters::stopAssignmentStatus::staged,"Staged Stops"
+filters::stopAssignmentStatus::title,"Assignment Status"
+filters::stopAssignmentStatus::unassigned,"Unassigned Stops"
+filters::stopType::all,"All Stop Types"
+filters::stopType::checkstops,Checkstop
+filters::stopType::delivery,"Delivery Stops"
+filters::stopType::lunch,"Lunch Stops"
+filters::stopType::pickup,"Pickup Stops"
+filters::stopType::title,"Stop Type"
+filters::toolBar::miscButton,"Misc Filters"
+filters::toolBar::miscSectionTitle,"Filter Misc"
+filters::toolBar::resetFilters,"Reset Filters"
+filters::toolBar::returnToDefault,"Return to Default"
+filters::toolBar::routesSectionTitle,"Filter Routes"
+filters::toolBar::shipmentsSectionTitle,"Filter Shipments"
+filters::toolBar::stopsSectionTitle,"Filter Stops"
+filters::vehicles::all,"All Vehicles"
+filters::vehicles::title,Vehicles
+filters::zones::all,"All Zones"
+filters::zones::title,Zones
+filters::zones::zoneFilter,"Zone Filter"
+finishBreakString,"Finish Break"
+forgot_password,"Forgot your Password?"
+forgot_password_instructions,"Please enter the mobile number or email associated with your Maven account."
+forgot_password_text,"A%1$s has been sent to %2$s with a link to reset your password."
+forgot_password_title,"Forgot Password"
+gallons_definition,gallons
+gallons_short_definition,gal
+goOffDutyButtonString,"Go Off Duty"
+goOnDutyButtonString,"Go On Duty"
+googlePlayService_disabled,"""Cannot Display Maps.\n Google Play Services Are Disabled"""
+googlePlayService_notAvailable,"""Cannot Display Maps.\n <a href=""https://play.google.com/store/apps/details?id=com.google.android.gms&hl=en"">Google Play Services</a> Are Not Available"""
+googlePlayService_upgradeVersion,"""Cannot Display Maps.\n<a href=""https://play.google.com/store/apps/details?id=com.google.android.gms&hl=en"">Google Play Services</a> Version Update Required"""
+greeting,"Hi there!"
+grid::holdingArea::canceled,Canceled
+grid::holdingArea::checkStopsNoPickup,"Checkstops - No Pickup Needed"
+grid::holdingArea::futurePickups,"Future Pickups"
+grid::holdingArea::futureStops,"Future Stops"
+grid::holdingArea::holdingStops,"Holding Stops"
+grid::holdingArea::noStopsFound,"No Stops Found"
+grid::holdingArea::rescheduledPickups,"Rescheduled Pickups"
+grid::holdingArea::stopsPanel::filterAndSort,"Filter & Sort"
+grid::holdingArea::stopsPanel::multiSelect,"Multi Select"
+grid::holdingArea::stopsPanel::selectMultipleStops,"You can select multiple stops"
+grid::holdingArea::tomorrow,Tomorrow
+grid::holdingArea::unassigned,Unassigned
+grid::holdingArea::unassignedStops,"Unassigned Stops"
+grid::multiRoute::noManifests,"No Manifests"
+grid::onDutyTimer,"Weekly ON Duty Timer"
+grid::routeGrid::activeRoutes,"Active Routes"
+grid::routeGrid::closedRoutes,"Closed Routes"
+grid::routeGrid::completedRoutes,"Completed Routes"
+grid::routeGrid::createNewRoute,"Create New Route"
+grid::routeGrid::noRoutes,"No routes have been added"
+grid::routeGrid::planningRoutes,"Planning Routes"
+grid::routeGrid::selectDriverName,"Select a driver name to assign stop(s)"
+grid::routeGrid::unavailableRoutes,"Unavailable Routes"
+grid::routeInstance::deleteRoute,"Delete Route"
+grid::routeInstance::hideStops,"Hide Stops"
+grid::routeInstance::noStops,"No Stops Added"
+grid::routeInstance::stopsHidden,"%1$s hidden stop"
+grid::routeInstance::stopsHidden_other,"%1$s hidden stops"
+grid::routeInstance::stopsHidden_plural,"%1$s hidden stops"
+grid::routeInstance::submittedToDock,"Submitted to Dock"
+grid::routeInstanceHeader::loggedIn,"Logged In"
+grid::routeInstanceHeader::manifestNum,"Manifest #"
+grid::routeInstanceHeader::notLoggedIn,"Not Logged In"
+grid::routeInstanceHeader::trailerNum,"Trailer #"
+grid::routeInstanceHeader::truckNum,"Truck #"
+grid::routeInstanceHeader::unknownVehicle,"Unknown Vehicle"
+grid::routeInstanceSummary::currentPallets,"Current pallets"
+grid::routeInstanceSummary::lunchNeeded,"Lunch needed"
+grid::routeInstanceSummary::projectedPalletsAndWeight,"Projected pallets and weight at completion"
+grid::routeInstanceSummary::stopsToGo,"Stops to go"
+grid::searchResult,"Search Result %1$s of %1$s"
+grid::stagedStopsList::assignAll,"Assign All To Driver"
+grid::stagedStopsList::numOfStagedStops,"%1$s Staged Stop"
+grid::stagedStopsList::numOfStagedStops_other,"%1$s Staged Stops"
+grid::stagedStopsList::numOfStagedStops_plural,"%1$s Staged Stops"
+grid::stopsListDroppableArea,"Drop Here to Assign Stops"
+grid::unassignedStops::header,"Unassigned Stops"
+grid::unassignedStops::hideStops,"Hide Stops"
+grid::unassignedStops::noStops,"No Unassigned Stops"
+grid::unassignedStops::stopsHidden,"%1$s hidden stop"
+grid::unassignedStops::stopsHidden_other,"%1$s hidden stops"
+grid::unassignedStops::stopsHidden_plural,"%1$s hidden stops"
+hard_brake_speech,"%1$s brake detected. %2$.2f miles per hour per second"
+head_bob,HeadBobs:
+header::backToSearch,"Back to Search"
+header::home,Home
+header::home,Home
+header::inbound,Inbound
+header::inbound,Inbound
+header::language,Language
+header::loginDropDown::dispatch,Dispatch
+header::loginDropDown::logout,Logout
+header::loginDropDown::planning,Planning
+header::loginDropDown::reportBug,"Report Bug"
+header::logout,Logout
+header::serviceDesk,"Service Desk"
+headsetImageDesc,"Headset Status"
+helpImageDescription,Help
+helpPageText,"I need help"
+helpText,Help
+help_support,"Help & Support"
+helpers::calendar::daysOfWeek::0,Su
+helpers::calendar::daysOfWeek::1,Mo
+helpers::calendar::daysOfWeek::2,Tu
+helpers::calendar::daysOfWeek::3,We
+helpers::calendar::daysOfWeek::4,Th
+helpers::calendar::daysOfWeek::5,Fr
+helpers::calendar::daysOfWeek::6,Sa
+helpers::clearFilter::clearFilterText,"Clear Filter and Scroll to Result"
+helpers::clearFilter::loading,Loading...
+helpers::overlayReportBug::error,"hm... something went wrong."
+helpers::overlayReportBug::reportBugTitle,"Maven has logged an error"
+helpers::overlayReportBug::reportText,"Submit report to Maven"
+helpers::reportBugForm::bugPlaceholder,"e.g. - When I was trying to assign a stop, the stop card continued to spin for a long time"
+helpers::reportBugForm::cancel,Cancel
+helpers::reportBugForm::close,Close
+helpers::reportBugForm::description,"Tell us what you were doing when the error occurred"
+helpers::reportBugForm::header,"Your email address"
+helpers::reportBugForm::numOfCharacters,"%1$s/%1$s characters"
+helpers::reportBugForm::reportBug,"Report Bug"
+helpers::reportBugForm::reportBugTitle,"Report Bug"
+helpers::reportBugForm::submit,Submit
+helpers::reportBugForm::submitting,Submitting
+helpers::reportBugForm::subtitle,"Our team will be notified."
+helpers::reportBugForm::successTitle,"Your report has been received."
+helpers::searchDropdown::noResults,"No results found"
+home,Home
+identity_question,"Is this you?"
+idle_battery_speech,"Idle battery life %s"
+image_set_creator_activity_label,"Document Imaging Activity"
+inAppNotificationMessage,"A new update is available for Maven."
+inAppNotificationTitle,"An Update is Available"
+inbound::addToPlanQuestion," for %1$s"
+inbound::assignmentHeader,"Multiple Plan Types"
+inbound::confirmPlanModal::addToPlan,"Add to Plan"
+inbound::confirmPlanModal::cancel,Cancel
+inbound::confirmPlanModal::removeFromPlan,"Remove from Plan"
+inbound::confirmPlanModal::summaryLabel,"Shipment Summary"
+inbound::confirmPlanModal::title,"Are you sure you want to ""<bold>%1$s</bold>"" %1$s"
+inbound::constants::addToPlan,"This action could not be completed. Please try again later."
+inbound::constants::assignedLabel,"Optimize to city route"
+inbound::constants::closeError,"Routes can only be closed if they were submitted to dock and have an assigned trailer."
+inbound::constants::dispatchError,"Routes can only be dispatched if they were closed and have an assigned driver."
+inbound::constants::unassignedLabel,"Import as unassigned"
+inbound::createRouteInstanceModal::button,"Create New Route"
+inbound::createRouteInstanceModal::cancel,Cancel
+inbound::createRouteInstanceModal::customRouteName,"Custom Route Name"
+inbound::createRouteInstanceModal::customRouteName,"Custom Route Name"
+inbound::createRouteInstanceModal::routeNameLabel,"Route Name"
+inbound::createRouteInstanceModal::title,"Create New Route"
+inbound::noTrailerInfo,"NO TRAILER INFORMATION AVAILABLE"
+inbound::searchBarPlaceholder,"Search PRO, Zip, Consignee, City, Trailer"
+inbound::shipmentsOverview::address,Address
+inbound::shipmentsOverview::deselectAll,"Deselect All"
+inbound::shipmentsOverview::edd,EDD
+inbound::shipmentsOverview::eta,ETA
+inbound::shipmentsOverview::pro,"PRO #"
+inbound::shipmentsOverview::selectAll,"Select All"
+inbound::shipmentsOverview::shipmentInfo,"Shipment Information"
+inbound::shipmentsOverview::trailerCardActionCollapse,"Collapse All"
+inbound::shipmentsOverview::trailerCardActionExpand,"Expand All"
+inbound::sideBar::addToPlan,"Add to Plan"
+inbound::sideBar::header,"Available Freight"
+inbound::sideBar::numOfTrailers,"%1$s trailers"
+inbound::sideBar::removeFromPlan,"Remove from Plan"
+inbound::sorters::city,"City (asc)"
+inbound::sorters::consignee,Consignee
+inbound::sorters::deliveryDate,"Delivery Date (asc)"
+inbound::sorters::etaAscending,"ETA (asc)"
+inbound::sorters::etaDescending,"ETA (desc)"
+inbound::sorters::name,Name
+inbound::sorters::originTerminal,"Origin Terminal"
+inbound::sorters::palletCount,"Pallet Count (desc)"
+inbound::sorters::serviceDate,"Service Date"
+inbound::sorters::shipmentCount,"Shipment Count (desc)"
+inbound::sorters::weight,"Weight (desc)"
+inbound::sorters::zipCode,"Zip code (asc)"
+inbound::status::arrived,ARRIVED
+inbound::status::dispatched,DISPATCHED
+inbound::status::enRoute,"EN ROUTE"
+inbound::status::loaded,LOADED
+inbound::status::planning,PLANNING
+inbound::status::unplanned,UNPLANNED
+inbound::trailer::eta,ETA
+inbound::trailer::manifestNumber,"Manifest Number"
+inbound::trailer::name,Name
+inbound::trailer::shipments,Shipments
+inbound::trailer::trailerNumber,"Trailer Number"
+interact,"Disable Auto Adjust"
+internet_connection_required_to_check_for_updates,"Internet connection is required to check for updates"
+invalid_code,"Sorry, no one found with that signup code"
+invalid_login,"Incorrect Login Credentials Provided"
+invalid_signup_code_length,"Please enter a valid signup code."
+kilograms_definition,kilograms
+kilograms_short_definition,kg
+kilometers_definition,kilometers
+kilometers_short_definition,km
+layout::dispatch,Dispatch
+layout::loadingError,"There was an error loading this page. Make sure you belong to a terminal in order to use Maven Dispatch."
+layout::maven,Maven
+layout::offlineError,"You are offline"
+layout::report,"Submit report to Maven"
+layout::reportBugTitle,"Maven has logged an error"
+layout::undergoingCleanup,"Maven is performing a scheduled maintenance. Maven Dispatch will be offline for a couple of minutes."
+layout::undergoingCleanupSupport,"Reach out to customer support if you are here for a prolonged time."
+layout::unexpectedError,"An unexpected error has occurred. Please refresh this page and try again."
+linehaul_auto_swap,"Auto Swap"
+linehaul_cancel_auto_swap,"Cancel Auto Swap"
+linehaul_override_and_confirm,"Override and confirm Swap"
+linehaul_partnerEtaUnknown,"Relay Driver’s ETA is unavailable"
+linehaul_relay_driver_arrived_at,"Relay Driver arrived at %1$s"
+linehaul_relay_driver_eta_is,"Relay Driver’s ETA is %1$s"
+linehaul_swap,Swap
+linehaul_swap_override,"Swap override"
+linehaul_swap_override_confirmation,"Your relay driver is not within the stop geo location, Do you want to override and confirm swap?"
+linehaul_wait_for_relay_driver,"Wait for Relay Driver"
+liters_definition,liters
+liters_short_definition,L
+lockOutTitle,"This is the lock out app"
+logo,Logo
+logoutPreferenceKey,user_logout
+logoutPreferenceTitle,Logout
+map::addLoad::addLoad,"Add Load"
+map::addLoad::createLoad,"Create Load"
+map::addLoad::creatingLoad,"Creating Load"
+map::addLoad::dateBeforeTodayError,"The %1$s date cannot be before today."
+map::addLoad::deliveryBeforePickupError,"The Delivery date cannot be before the Pickup date"
+map::addLoad::deliveryDate,"delivery date"
+map::addLoad::deliveryLocation,"delivery location"
+map::addLoad::deliveryLocationLabel,"Delivery Location"
+map::addLoad::dismissButton,Dismiss
+map::addLoad::driver,driver
+map::addLoad::driverLabel,Driver
+map::addLoad::expectedWeight,"expected weight"
+map::addLoad::expectedWeightLabel,"Expected Weight"
+map::addLoad::locationDetailsLabel,"Location Details"
+map::addLoad::manifestNumber,"manifest number"
+map::addLoad::manifestNumberLabel,"Manifest Number"
+map::addLoad::orderDescriptionLabel,"Order Description"
+map::addLoad::pickupDat,"pickup date"
+map::addLoad::pickupDate,"pickup date"
+map::addLoad::pickupLocation,"pickup location"
+map::addLoad::pickupLocationLabel,"Pickup Location"
+map::addLoad::poundsPlaceHolder,Pounds
+map::addLoad::receiver,receiver
+map::addLoad::receiverNameLabel,"Receiver Name"
+map::addLoad::requiredDateError,"A %1$s date is required"
+map::addLoad::requiredError,"A %1$s is required."
+map::addLoad::requiredPlaceholder,Required
+map::addLoad::sectionTitle,"Order and Asset Information"
+map::addLoad::shipmentDateTimeLabel,"%1$s Date and Time"
+map::addLoad::shipper,shipper
+map::addLoad::shipperNameLabel,"Shipper Name"
+map::addLoad::title,"Add Load"
+map::addLoad::trailerNumberLabel,"Trailer Number"
+map::addLoad::unexpectedError,"An unexpected error has occurred."
+map::map::hideTraffic,"Hide Traffic"
+map::map::showTraffic,"Show Traffic"
+map::routeActionsModal::closeDescription,"Select which routes you would like to close. The routes must be submitted to dock and have all assigned shipments in an “at dock” status."
+map::routeActionsModal::closeError,"No planning routes are ready to be closed. The routes must be submitted to dock and have all assigned shipments in an “at dock” status."
+map::routeActionsModal::closeRoutes,"Close Routes"
+map::routeActionsModal::deleteShipmentsWarning,"This action will remove %1$s unassigned deliveries and %1$s unassigned pickups permanently from Maven Dispatch"
+map::routeActionsModal::description,"Completing this action will send %1$s planning $t(common:route, {""count"": %1$s }) back to your fleet's TMS. Once synced, they will be removed from Maven Dispatch."
+map::routeActionsModal::dismissButton,Dismiss
+map::routeActionsModal::dispatchDescription,"Select which routes you would like to dispatch. The routes must be closed, have an assigned truck, and have an assigned driver."
+map::routeActionsModal::dispatchError,"No closed routes are ready to be dispatched. The routes must be closed, have an assigned truck, and have an assigned driver."
+map::routeActionsModal::noPlanningRoutesError,"No planning routes are selected to sync."
+map::routeActionsModal::noRoutesFound,"No routes found"
+map::routeActionsModal::numSelected,"%1$s $t(common:route, {""count"": %1$s }) selected"
+map::routeActionsModal::removeUnassignedTitle,"Remove Unassigned Planning Shipments"
+map::routeActionsModal::searchPlaceHolder,"Route Name"
+map::routeActionsModal::selectAll,"Select All"
+map::routeActionsModal::submit,Submit
+map::routeActionsModal::submitDispatch,"Submit to Dispatch"
+map::routeActionsModal::submitToDock,"Submit to Dock"
+map::routeActionsModal::submitting,Submitting...
+map::routeActionsModal::sync,Sync
+map::routeActionsModal::syncToTMS,"Sync To TMS"
+map::routeActionsModal::syncing,Syncing...
+map::routeActionsModal::title,Actions
+map::routeActionsModal::tmsDescription,"Select which routes you would like to send back to your fleet's TMS. Once synced, they will be removed from Maven Dispatch."
+map::routeActionsModal::tmsError,"No planning routes to sync"
+map::routeActionsModal::tmsErrorInbound,"No planning routes to submit to dock"
+map::routeActionsModal::tmsInboundDescription,"Select which routes you would like to submit to dock."
+map::routeActionsModal::unknownError,"An unknown error has occurred"
+map::routeInfoBox::assignToRoute,"Assign to Route"
+map::routeList::addLoad,"Add Load"
+map::routeList::buttonReOptimize,"Optimize Routes"
+map::routeList::buttonRoutesOptimized,"Routes Optimized"
+map::routeList::compare,Compare
+map::routeList::driverFirstName,"Driver First Name (a-z)"
+map::routeList::driverLastName,"Driver Last Name (a-z)"
+map::routeList::live,Live
+map::routeList::optimizeAllRoutes,"Optimize All Routes"
+map::routeList::routeName,"Route Name (a-z)"
+map::routeList::searchPlaceHolder,"Driver or route name"
+map::routeList::selectRoutes,"Select up to 10 routes."
+map::routeList::sort,Sort
+map::routeList::sortRoutesBy,"Sort Routes By"
+map::routeList::summary,Summary
+map::routeList::titleAssign,Assign
+map::routeList::titleLoad,Load
+map::routeList::titleRoutes,Routes
+map::routeList::titleToggle,"Toggle Route List View"
+map::routeListHelpModal::currentPallets,"Current Pallets"
+map::routeListHelpModal::currentStatus,"Current Status"
+map::routeListHelpModal::currentStop,"Current Stop"
+map::routeListHelpModal::deliveries,Deliveries
+map::routeListHelpModal::driving,Driving
+map::routeListHelpModal::liveViewHeader,"Live View"
+map::routeListHelpModal::onBreak,"On Break"
+map::routeListHelpModal::pallets,Pallets
+map::routeListHelpModal::pickups,Pickups
+map::routeListHelpModal::projectedPalletsAndWeight,"Projected pallets and weight at route completion"
+map::routeListHelpModal::stop,Stop
+map::routeListHelpModal::stopsToGo,"Stops to go"
+map::routeListHelpModal::summaryInfo,"Maven Dispatch provides you with two ways to view your routes."
+map::routeListHelpModal::summaryViewHeader,"Summary View"
+map::routeListHelpModal::terminal,Terminal
+map::routeListHelpModal::timeInStatus,"Time in this status"
+map::routeListHelpModal::title,"Tracking Routes and Drivers"
+map::sideBar::allStops,"All Stops"
+map::sideBar::checkStops,Checkstops
+map::sideBar::failed,"Failed Stops"
+map::sideBar::pending,"Pending Stops"
+map::sideBar::unassigned,"Unassigned Stops"
+map::todaysDispatchNavigation::allStops,"All Stops"
+map::todaysDispatchNavigation::checkStops,Checkstops
+map::todaysDispatchNavigation::failedStops,"Failed Stops"
+map::todaysDispatchNavigation::pendingStops,"Pending Stops"
+map::todaysDispatchNavigation::unassignedStops,"Unassigned Stops"
+maps,Maps
+maven_account,"In order to help you access your information anywhere and better protect your privacy, we kindly ask you to setup a Maven account."
+maven_name_formatted,"<b>maven</b> machines"
+maven_update,"We're making updates to Maven and rolling out some awesome new features."
+maven_welcome,"Hi there,\nWelcome to Maven"
+mealBreak,"MEAL BREAK"
+measurementText::distanceText,"%1$s mi"
+measurementText::weightMeasurement,lb
+measurementText::weightMeasurementPlural,lbs.
+measurementText::weightMeasurement_other,lbs
+measurementText::weightMeasurement_plural,lbs
+message_acknowledged_speech,"Acknowledgement received."
+message_confirm_prompt_no_recognizer_speech,"Please nod to confirm message received."
+message_confirm_prompt_speech,"After the beep, please nod or say OK to confirm message received or say repeat to hear again."
+message_explain_permission_speech,"The maven copilot is cool, allow the re cord audio permission or else"
+message_received_no_permission_speech,"New message from %1$s ..... %2$s"
+message_received_speech,"New message from %1$s ..... %2$s ..... %3$s"
+message_repeat_prompt_speech,"I didn't understand that, %1$s"
+miles_definition,miles
+miles_short_definition,mi
+mobile_or_email,"Mobile number or email"
+new_driver,"Driver Signup Code"
+nickname,"Nickname or Handle (optional)"
+no,No
+noNewUpdatesTitle,"There are no new updates available"
+no_account,"Don't have an account?"
+no_code,"Already have a Maven account?"
+no_trips_assigned_contact_dispatch,"No Trips Assigned.\n Contact Dispatch."
+no_trips_found,"No Trips Found"
+none,None
+notificationAcceptanceButtonText,"UPDATE NOW"
+notificationDismissButtonText,DISMISS
+notification_ticker,"Maven Machines"
+notification_title,"Maven Machines"
+notification_workflow_dismiss,Dismiss
+notification_workflow_system_text,"Maven has received an update"
+notification_workflow_updated,"Workflow Updated"
+ok,OK
+onMealBreak,"On 30 Min Meal Break"
+onTenMinuteBreak,"On 10 Min Paid Break"
+open_in_maps,"Open in Maps"
+organization,Organization
+other,Other
+overlays::changeTerminal::assignedStopWarning,"This stop is assigned to driver"
+overlays::changeTerminal::assignedToDriverStopWarning,"This stop is already assigned to a driver"
+overlays::changeTerminal::changeTerminal,"Change Terminal"
+overlays::changeTerminal::changingTerminal,"Changing Terminal"
+overlays::changeTerminal::description,"Select which terminal you would like to move"
+overlays::changeTerminal::dismiss,Dismiss
+overlays::changeTerminal::planningStopError,"Cannot move planning stops to other terminals."
+overlays::changeTerminal::planningStopWarning,"You cannot move planning stops to another terminal."
+overlays::changeTerminal::requiredTerminalError,"A terminal is required."
+overlays::changeTerminal::selectTerminal,"Select Terminal"
+overlays::changeTerminal::title,"Change Terminal"
+overlays::changeTerminal::willUnassignStopWarning,"Changing terminals will unassign the stop from this driver"
+overlays::comparativeRouteOverlay::buttonTitle,"Show route on the map"
+overlays::comparativeRouteOverlay::buttonTitle_plural,"Show route on the map"
+overlays::comparativeRouteOverlay::comparing,"Comparing %1$s $t(common:route, {""count"": %1$s})"
+overlays::comparativeRouteOverlay::removeButtonText,Remove
+overlays::completeStops::code,code
+overlays::completeStops::code_other,codes
+overlays::completeStops::code_plural,codes
+overlays::completeStops::completeStop,"Complete Stop"
+overlays::completeStops::completingStop,"Completing Stop"
+overlays::completeStops::completionCodeRequiredError,"A %1$s completion code is required"
+overlays::completeStops::directions,"To complete <0>%1$s %1$s</0>, fill in the form below. The %1$s $t(common:shipment, {""count"": %1$s }) on this stop will be given the below completion $t(code, {""count"": %1$s }) "
+overlays::completeStops::dismiss,Dismiss
+overlays::completeStops::noShipments,"contains no shipments. Please enter a note to complete the stop."
+overlays::completeStops::noteLabel,Note
+overlays::completeStops::selectCompletionCode,"Select %1$s Completion Code"
+overlays::completeStops::title,"Complete Stop"
+overlays::completeStops::unexpectedError,"An unexpected error has occurred."
+overlays::mergeStops::description,"Select which route, location, and time window you'd like the merged stop to have."
+overlays::mergeStops::dismissButton,Dismiss
+overlays::mergeStops::endTimeLabel,"Stop End Time"
+overlays::mergeStops::endTimePlaceholder,"Window End Time"
+overlays::mergeStops::mergeStops,"Merge Stops"
+overlays::mergeStops::mergingStops,"Merging Stops"
+overlays::mergeStops::noCloseTime,"No close time"
+overlays::mergeStops::noOpenTime,"No open time"
+overlays::mergeStops::parentStopLabel,"Parent Stop Details"
+overlays::mergeStops::requiredPlaceholder,Required
+overlays::mergeStops::routeRequiredError,"A route is required"
+overlays::mergeStops::selectRouteLabel,"Select Route to Assign"
+overlays::mergeStops::startTimeError,"The start time cannot be greater than the end time."
+overlays::mergeStops::startTimeLabel,"Stop Start Time"
+overlays::mergeStops::startTimePlaceholder,"Window Start Time"
+overlays::mergeStops::stopLocationLabel,"Stop Location"
+overlays::mergeStops::stopLocationRequiredError,"A stop location is required"
+overlays::mergeStops::stopSequenceNum,"Stop %1$s"
+overlays::mergeStops::title,"Merge %1$s Stops Together"
+overlays::mergeStops::warningHasFinishedStop,"Your selection contains stops that have been completed or canceled. Only the uncompleted stops will be merged."
+overlays::mergeStops::warningPlanning,"You cannot merge planning and non-planning stops"
+overlays::multiRouteOverlay::noStops,"No Stops in Route"
+overlays::multiStopOverlay::assign,Assign
+overlays::multiStopOverlay::cancel,Cancel
+overlays::multiStopOverlay::merge,Merge
+overlays::multiStopOverlay::stopSelectedText,"%1$s Stops Selected"
+overlays::multiStopOverlay::unassign,Unassign
+overlays::multiStopOverlay::unstage,Unstage
+overlays::routeOverlay::addDriver,"Add Driver"
+overlays::routeOverlay::arriveAtTerminal,"Arrive at Terminal"
+overlays::routeOverlay::cancel,Cancel
+overlays::routeOverlay::completedAt,"Completed route at %1$s"
+overlays::routeOverlay::confirm,Confirm
+overlays::routeOverlay::departFromTerminal,"Depart from Terminal"
+overlays::routeOverlay::departedAt,"Departed at %1$s"
+overlays::routeOverlay::edit,Edit
+overlays::routeOverlay::estTime,"Est. Time"
+overlays::routeOverlay::eta,"ETA %1$s"
+overlays::routeOverlay::noStops,"No Stops in Route"
+overlays::routeOverlay::numOfStagedStops,"%1$s Staged Stop"
+overlays::routeOverlay::numOfStagedStops_other,"%1$s Staged Stops"
+overlays::routeOverlay::numOfStagedStops_plural,"%1$s Staged Stops"
+overlays::routeOverlay::optimizeRoute,"Optimize Route"
+overlays::routeOverlay::revertBack,"Revert Back"
+overlays::routeOverlay::routeOptimized,"Route Optimized"
+overlays::routeOverlay::save,Save
+overlays::routeOverlay::showRouteOnMap,"Show route on the map"
+overlays::routeOverlay::totalDistance,"Total Distance"
+overlays::routeOverlay::totalStem,"total STEM"
+overlays::routeOverlay::trap,TRAP
+overlays::routeOverlay::updatingRoute,"Updating Route..."
+overlays::sameDay::addDelivery,"Add Delivery"
+overlays::sameDay::addDelivery_other,"Add Deliveries"
+overlays::sameDay::addDelivery_plural,"Add Deliveries"
+overlays::sameDay::addingDelivery,"Adding Delivery"
+overlays::sameDay::addingDelivery_other,"Adding Deliveries"
+overlays::sameDay::addingDelivery_plural,"Adding Deliveries"
+overlays::sameDay::cannotSplitPlanningStops,"You cannot split planning stops."
+overlays::sameDay::description,"Select which shipments you'd like to assign as a same day delivery."
+overlays::sameDay::dismiss,Dismiss
+overlays::sameDay::error,"An error occurred. Please try again."
+overlays::sameDay::helpText,"This will automatically generate a delivery stop upon successful pickup completion."
+overlays::sameDay::noValidPickups,"No Valid Pickups Found"
+overlays::sameDay::noValidPickupsFound,"No Valid Pickups Found"
+overlays::sameDay::numDeliveriesSuccessfullyCreated,"%1$s deliveries successfully created"
+overlays::sameDay::title,"Add Same Day Delivery"
+overlays::sameDay::unknownConsignee,"Unknown Consignee"
+overlays::splitStops::cannotRemoveAllError,"You cannot remove all shipments from a stop."
+overlays::splitStops::cannotSplitCompleted,"Cannot Split Completed Shipments"
+overlays::splitStops::currentStopTitle,"Current Stop"
+overlays::splitStops::description,"Select which shipments you'd like to move to a new stop."
+overlays::splitStops::dismissButton,Dismiss
+overlays::splitStops::newStopTitle,"New Stop"
+overlays::splitStops::noSelectedShipmentsError,"Please select at least 1 shipment to move to a new stop."
+overlays::splitStops::splitStop,"Split Stop"
+overlays::splitStops::splittingStop,"Splitting Stops"
+overlays::splitStops::title,"Split Stop"
+overlays::stopActions::addSameDay,"Add Same Day Delivery"
+overlays::stopActions::changeTerminal,"Change Terminal"
+overlays::stopActions::completeStop,"Complete Stop"
+overlays::stopActions::noPickupNeeded,"No Pickup Needed"
+overlays::stopActions::reActivateStop,"Re-activate Stop"
+overlays::stopActions::splitStop,"Split Stop"
+overlays::stopActions::title,"Stop Actions"
+overlays::stopActions::undoSameDay,"Undo Same Day Delivery"
+overlays::stopOverlay::assignmentDetails::assignedTo,"Assigned To"
+overlays::stopOverlay::assignmentDetails::stagedOn,"Staged On"
+overlays::stopOverlay::assignmentDetails::stopPosition,"Stop %1$s of %1$s $t(common:stop, {""count"": %1$s })"
+overlays::stopOverlay::assignmentDetails::stopsAway_more,"%1$s Stop away"
+overlays::stopOverlay::assignmentDetails::stopsAway_more_other,"%1$s Stops away"
+overlays::stopOverlay::assignmentDetails::stopsAway_next,"Next stop"
+overlays::stopOverlay::header::checkstopLabel,Checkstop
+overlays::stopOverlay::header::geoCodedAs,"Geocoded As"
+overlays::stopOverlay::header::notGeocoded,"Not Geocoded"
+overlays::stopOverlay::overlayActions::assignStop,"Assign Stop"
+overlays::stopOverlay::overlayActions::assignToName,"Assign To %1$s"
+overlays::stopOverlay::overlayActions::cancelAction,Cancel
+overlays::stopOverlay::overlayActions::unassignStop,"Unassign Stop"
+overlays::stopOverlay::overlayActions::unstageStop,"Unstage Stop"
+overlays::stopOverlay::overlayActions::working,Working...
+overlays::stopOverlay::shipment::dest,"Dest: "
+overlays::stopOverlay::shipment::scacTo,"SCAC To: %1$s"
+overlays::stopOverlay::shipmentsList::noShipments,"No shipments found"
+overlays::stopOverlay::shipmentsList::title,"Associated Shipments"
+overlays::stopOverlay::stopDetails::checkStopNote,"Checkstop: "
+overlays::stopOverlay::stopDetails::checkstopNote,"Checkstop: "
+overlays::stopOverlay::stopDetails::notesTitle,"$t(commun:note, {""count"": 0}): "
+overlays::undoSameDay::description,"Select which shipments you'd like to undo as a same day delivery."
+overlays::undoSameDay::dismissButton,Dismiss
+overlays::undoSameDay::error,"An error occurred when undoing same day delivery. Please try again."
+overlays::undoSameDay::helpText,"This will remove automatically generated delivery stops."
+overlays::undoSameDay::noValidPickups,"No Valid Pickups Found"
+overlays::undoSameDay::noValidPickupsFound,"No Valid Pickups Found"
+overlays::undoSameDay::title,"Undo Same Day Delivery"
+overlays::undoSameDay::undoDelivery,"Undo $t(common:delivery, {""count"": %1$s })"
+overlays::undoSameDay::undoingDelivery,"Undoing $t(common:delivery, {""count"": %1$s })"
+overlays::undoSameDay::unexpectedError,"An error occurred. Please try again."
+overlays::undoSameDay::unknownConsignee,"Unknown Consignee"
+pageNotFound::linkMessage,"Click here to go to the home page"
+pageNotFound::sorryMessage,"Sorry, the requested page could not be found"
+password,Password
+pdca_header_call_ahead_other,"Additional Shipment Phone Details"
+pdca_header_call_ahead_phone_numbers,"Call Ahead Phone Numbers"
+pdca_shipment_identifier_format_default,#%1$s
+pdca_shipment_identifier_format_pickup,REF#%1$s
+pdca_shipment_no_phone_number,"Not Available"
+pdca_tag_name_call_ahead,"Call Ahead"
+pdca_tag_name_format,"%1$d mins"
+performanceMap,"Switch To Performance Map"
+permission_explanation_device_state,"
+        The read phone state permission lets us associate this device with your account.
+    "
+permission_explanation_location,"
+        The location permission lets us show your position on the map.
+    "
+permission_explanation_permanent_denied,"
+        On the following page, please select Permissions and grant us all permissions.
+        Otherwise, the Maven Co-Pilot™ headset will not be able to function
+    "
+phone,"(412) 499–3877 "
+post_event_env,production
+pounds_definition,pounds
+pounds_short_definition,lb
+preferencesActivityLoadingText,"Checking for updates…"
+privacy_statement,"We take privacy very seriously. This will be your personal account and this information will not be shared with anyone, including your fleet."
+reenter,"Re-enter password"
+relay_details,"Relay Details"
+requestedBy::contactName,"Contact Name"
+requestedBy::contactPhone,"Contact Phone"
+requestedBy::puSource,"PU Source"
+requestedBy::requestedBy,"PU Requested By"
+requestedBy::title,"Requested By"
+required,Required
+reset_password,"Reset Password"
+reset_password_instructions,"Please fill out the form below to reset your password."
+reset_password_title,"Reset Your Password"
+routeDetails::driver,Driver
+routeDetails::driverNotes,"Driver Notes"
+routeDetails::manifestNumber,"Manifest Number"
+routeDetails::powerUnit,"Power Unit"
+routeDetails::routeStatus,"Route Status"
+routeDetails::title,"Route Details"
+routeDetails::trailerNum,"Trailer Number"
+routeStatus::aborted,Aborted
+routeStatus::atStop,"At Stop"
+routeStatus::atTerminalArrived,"At Terminal Arrived"
+routeStatus::atTerminalDeparting,"At Terminal Departing"
+routeStatus::availableCap,AVAILABLE
+routeStatus::closed,Closed
+routeStatus::closedCap,CLOSED
+routeStatus::completed,Completed
+routeStatus::completedCap,COMPLETED
+routeStatus::driving,Driving
+routeStatus::inProgress,"In Progress"
+routeStatus::inactive,Inactive
+routeStatus::notStarted,"Not Started"
+routeStatus::planning,Planning
+routeStatus::planningCap,PLANNING
+routeStatus::returningToTerminal,"Returning To Terminal"
+routeStatus::stopsComplete,"Stops Complete"
+routeStatus::unavailableCap,UNAVAILABLE
+save,Save
+scoreCautionAlerts,scoreCautionAlerts
+scoreCaution_speech,"Caution Your Maven Score Has Dropped Below 30"
+scoreNotification,scoreNotification
+scoreNotificationTime,scoreNotificationTime
+scoreNotification_speech,"Your Current Maven Score is %1$s"
+searchPage::noResults,"No results found"
+searchPage::placeHolder,"Search by PRO or REF #"
+searchPage::unexpectedError,"An unexpected error has occurred"
+select,"Select Your Company"
+settings,Settings
+shipmentDocument::header,"Shipment Documents"
+shipmentDocument::uploadedBy,"Uploaded by %1$s on {{date, MMMM D, YYYY h:mm a}}"
+shipmentHeader::driver,Driver
+shipmentHeader::proNumber,"PRO Number"
+shipmentHeader::refNumber,"Reference Number"
+shipmentHeader::route,Route
+shipmentHeader::status,Status
+shipmentHeader::trailer,Trailer
+shipmentInformation::destSCAC,"Destination SCAC"
+shipmentInformation::destSIC,"Destination SIC"
+shipmentInformation::destZipCode,"Destination Zip Code"
+shipmentInformation::driverNotes,"Driver Notes"
+shipmentInformation::gatewayScac,"Gateway Scac"
+shipmentInformation::handlingUnits,"Handling Units"
+shipmentInformation::palletSpaces,"Pallet Spaces"
+shipmentInformation::pallets,Pallets
+shipmentInformation::pieces,Pieces
+shipmentInformation::proNumber,"PRO Number"
+shipmentInformation::quoteNumber,"Quote Number"
+shipmentInformation::refNumber,"Reference Number"
+shipmentInformation::scacTo,"SCAC To"
+shipmentInformation::shipmentAttributes,"Shipment Attributes"
+shipmentInformation::signerName,"Signer Name"
+shipmentInformation::title,"Shipment Information"
+shipmentInformation::weight,Weight
+shipperDetails::address,"Shipper Address"
+shipperDetails::contact,"Shipper Contact"
+shipperDetails::email,"Shipper Contact Email"
+shipperDetails::name,"Shipper Name"
+shipperDetails::name2,"$t(name) 2"
+shipperDetails::phone,"Shipper Contact Phone"
+shipperDetails::readyClose,Ready/Close
+shipperDetails::shipper,Shipper
+shipperDetails::shipperBOL,"Shipper/BOL Number"
+shipperDetails::title,"Shipper Details"
+sign_in_using,"Sign In Using"
+sign_up_code,"Enter your driver sign up code"
+signin_trouble,"I'm having trouble signing in"
+signup_trouble,"I'm having trouble signing up"
+sorters::closeTime,"Close Time"
+sorters::driverFirstName,"Driver First Name (A - Z)"
+sorters::driverLastName,"Driver Last Name (A - Z)"
+sorters::lastUpdated,"Last Updated"
+sorters::manifestNumber,"Manifest Number"
+sorters::openTime,"Open Time"
+sorters::pallets,Pallets
+sorters::resetFilters,"Reset Filters"
+sorters::resetSorts,"Reset Sorts"
+sorters::returnToDefault,"Return to Default"
+sorters::routesSectionTitle,"Sort Routes"
+sorters::shipmentsSectionTitle,"Sort Shipments"
+sorters::sortBy,"Sort By"
+sorters::stopName,"Stop Name (A - Z)"
+sorters::stopsSectionTitle,"Sort Stops"
+sorters::trailersSectionTitle,"Sort Trailers"
+sorters::weight,Weight
+sorters::zipCode,"Zip Code"
+start_trip,"Start Trip"
+stop,stop
+stopBox::arrivedAt,"Arrived at %1$s"
+stopBox::completedAt,"Departed at %1$s"
+stopBox::lastUpdated,"Last Updated %1$s"
+stopDetails::deliveryDetailsTitle,"Delivery Stop Details"
+stopDetails::deliveryInfo,"Delivery Information"
+stopDetails::dmanSequence,"DMan Stop Sequence"
+stopDetails::mavenSequence,"Maven Stop Sequence"
+stopDetails::pickupDetailsTitle,"Pickup Stop Details"
+stopDetails::pickupInfo,"Pickup Information"
+stopDetails::recentDeliveryStatus,"Most Recent Delivery Status"
+stopDetails::stopDetails,"Stop Details"
+stopDetails::stopSequence,"Stop Sequence"
+stopStatus::canceled,Canceled
+stopStatus::completed,Completed
+stopStatus::completedWithIssues,"Completed With Issues"
+stopStatus::incomplete,Incomplete
+stopStatus::interrupted,Interrupted
+stopStatus::interruptedLunch,"Interrupted Lunch"
+stopStatus::noFreight,"No Freight"
+stopStatus::noFreightCheckStop,"No Freight Checkstop"
+stopStatus::noPickup,"No Pickup Needed"
+stopStatus::notAttempted,"Not Attempted"
+stopStatus::planning::canceled,"Planning Stop - Canceled"
+stopStatus::planning::complete,"Planning Stop - Complete"
+stopStatus::planning::failed,"Planning Stop - Failed"
+stopStatus::planning::pending,"Planning Stop - Pending"
+stopStatus::planning::staged,"Planning Stop - Staged"
+stopStatus::planning::unassigned,"Planning Stop - Unassigned"
+stopStatus::skipped,Skipped
+stopStatus::skippedLunch,"Skipped Lunch"
+stopStatus::stop::canceled,"Canceled Stop"
+stopStatus::stop::complete,"Complete Stop"
+stopStatus::stop::failed,"Failed Stop"
+stopStatus::stop::pending,"Pending Stop"
+stopStatus::stop::staged,"Staged Stop"
+stopStatus::stop::unassigned,"Unassigned Stop"
+stopWithCount,"{{count}} stop"
+stopWithCount_plural,"{{count}} stops"
+stop_details,"Stop Details"
+stop_history,"Stop History"
+stop_information,"Stop Information"
+stop_plural,stops
+stops::allStops,"All Stops"
+stops::checkstops,Checkstops
+stops::failedStops,"Failed Stops"
+stops::pendingStops,"Pending Stops"
+stops::unassignedStops,"Unassigned Stops"
+stopsPanel::filterSortText,"Filter & Sort"
+stopsPanel::multiSelect,"Multi Select"
+stopsPanel::noStopsFound,"No stops found"
+stopsPanel::searchPlaceHolder,"Name, address, PRO or REF"
+stopsPanel::selectMultipleStops,"You can select multiple stops"
+stopsPanel::stringOf,"%1$s of %1$s"
+stopsTable::arrivalTime,"Arrival time"
+stopsTable::arrivedAt,"Arrived at {{time, h:mm a}}"
+stopsTable::departedAt,"Departed at {{time, h:mm a}}"
+stopsTable::emptyMessage,"This %1$s is unassigned. More information will be available once the %1$s is assigned"
+stopsTable::lastUpdated,"Last Updated {{time, h:mm a}}"
+stopsTable::stopAddress,"Stop address"
+stopsTable::stopName,"Stop name"
+stopsTable::stopSummary,"Stop summary"
+stopsTable::stopWindow,"Stop window"
+stops_definition,stops
+string_format_pattern_two_with_line_between,"%1$s - %2$s"
+string_format_pattern_two_with_space,"%1$s %2$s"
+string_format_pattern_two_without_space,%1$s%2$s
+submit,Submit
+submit,SUBMIT
+success,Success
+table::empty,"No records found"
+takeBreak,"Take Break"
+tenBreakTimeToBreakPlaceholder,"3h 59m"
+tenMinuteBreak,"10 MIN BREAK"
+tenMinuteTimer,10:00
+text_HRID,"HR ID"
+thirdPartyDetails::address,"3rd Party Address"
+thirdPartyDetails::contactEmail,"3rd Party Contact Email"
+thirdPartyDetails::contactName,"3rd Party Contact Name"
+thirdPartyDetails::contactPhone,"3rd Party Contact Phone"
+thirdPartyDetails::name,"3rd Party Name"
+thirdPartyDetails::name2,$t(name)2
+thirdPartyDetails::noValues,"No 3rd Party details available for this shipment"
+thirdPartyDetails::thirdParty,"3rd Party"
+thirdPartyDetails::title,"3rd Party Details"
+thirtyBreakTimeToBreakPlaceholder,"4h 59m"
+this_trip_is_currently_active,"This trip is currently active."
+timeHeader,"Drive time"
+timelineDatePlaceholder,"08:08 AM\n09/21/2016"
+timelineEventDefaultText,"10 Min Break\n"
+timelineEventName_offDuty,"Off Duty"
+timelineEventName_onDuty,"On Duty"
+timelineEventName_tenMinuteBreak,"10 Min Break"
+timelineEventName_thirtyMinuteBreak,"Meal Break"
+timelineLastShiftText,"Your Last Shift"
+title_activity_maven_preferences,Preferences
+toastMessages::actionCannotBeCompletedOffline,"Action cannot be completed while offline."
+toastMessages::actionCouldNotBeCompleted,"The action could not be completed. Try again later."
+toastMessages::assignWhileReordering,"Cannot assign while reordering stops"
+toastMessages::cannotAddSameDayWhileReordering,"Cannot add same day delivery to planning stop while reordering stops"
+toastMessages::cannotAssignCompleted,"Cannot assign canceled or completed stops."
+toastMessages::cannotAssignNonPlanning,"Cannot assign non-planning stop to a planning route"
+toastMessages::cannotAssignPlanning,"Cannot assign planning stop to a non-planning route."
+toastMessages::cannotBeAssignedToCompleted,"Stops cannot be assigned to completed routes. Please try a different route."
+toastMessages::cannotBeAssignedToReturn,"Stops cannot be assigned. Driver has already returned to terminal"
+toastMessages::cannotCompletePlanning,"Cannot complete planning stop while reordering stops"
+toastMessages::cannotDragAndDropMultiple,"Cannot drag and drop stops from multiple areas"
+toastMessages::cannotMoveCompletedStops,"Cannot move completed stops."
+toastMessages::cannotMoveLunch,"Cannot move lunch stops"
+toastMessages::cannotMoveSameDay,"Cannot move a same-day delivery that was already picked up."
+toastMessages::cannotMoveStopsWhileReordering,"Cannot move planning stops while reordering stops"
+toastMessages::cannotPlaceBetweenSameDay,"Cannot place stops between same day stops."
+toastMessages::cannotReassignBetweenPlanning,"Cannot reassign stops between planning and non-planning routes"
+toastMessages::cannotReassignCompleted,"Cannot reassign completed stops"
+toastMessages::cannotRemoveRouteName,"Cannot remove route name"
+toastMessages::cannotReorderCompleted,"Cannot reorder stops above completed/cancelled stops"
+toastMessages::cannotReorderSameDay,"Cannot reorder a same day delivery in front of its associated pickup"
+toastMessages::cannotSplitPlanning,"Cannot split planning stops while reordering stops"
+toastMessages::cannotUnassignCompleted,"Cannot unassign completed stops"
+toastMessages::closeConfirmation,closed
+toastMessages::deliveryRemovedSuccess,"$t(common:delivery, {""count"": %1$s }) successfully removed"
+toastMessages::deliverySuccessfullyCreated,"delivery successfully created"
+toastMessages::deliverySuccessfullyCreated_other,"deliveries successfully created"
+toastMessages::deliverySuccessfullyCreated_plural,"deliveries successfully created"
+toastMessages::dispatchConfirmation,"submitted to dispatch"
+toastMessages::maximumRoutesToCompare,"Can only pick a maximum of %1$s routes"
+toastMessages::mergeShipmentLimit,"Unable to merge stops. Stops cannot have more than {{ MERGE_LIMIT }} shipments at a time."
+toastMessages::mergeWhileReordering,"Cannot merge while reordering stops"
+toastMessages::noMatches,"No matches with the current filters"
+toastMessages::optimizationCouldNotBeDisabled,"Optimization could not be disabled for routes. Try again later."
+toastMessages::optimizedCouldNotBeDisabled,"Optimization could not be disabled for the route. Try again later."
+toastMessages::resultIsHidden,"Selected result is currently hidden"
+toastMessages::routeCouldNotBeDeleted,"Route could not be deleted. Please try again."
+toastMessages::routeIdDebug,"Route Instance ID: %1$s"
+toastMessages::routeNotFound,"Route instance not found."
+toastMessages::routeWasDeleted,"Route was successfully deleted."
+toastMessages::routeWithStopsCannotBeDeleted,"A route with stops cannot be deleted. Please remove all stops and try again."
+toastMessages::routesInstanceNotOptimized,"The route instance could not be optimized. Try again later."
+toastMessages::routesNotOptimized,"Routes could not be optimized. Try again later."
+toastMessages::somethingWentWrong,"Oops, something went wrong. Please try again."
+toastMessages::stopIdDebug,"Stop ID: %1$s"
+toastMessages::successfullyMovedStop,"Stop successfully moved to %1$s"
+toastMessages::syncedRoutesConfirmation,"%1$s $t(common:route, {""count"": %1$s }) successfully %1$s"
+toastMessages::tmsConfirmation,"synced to TMS"
+toastMessages::tmsInboundConfirmation,"submitted to dock"
+toastMessages::unassignWhileReordering,"Cannot unassign while reordering stops"
+toastMessages::visibleResults,"Only %1$s/%1$s results are currently visible"
+todayScore,"Today's Score"
+trip_details,"Trip Details"
+trip_details_attributes,"Attributes: %1$s"
+trip_details_consignee,"Consignee: <b>%1$s</b><br>%2$s"
+trip_details_distance,"Loaded: %1$s \nEmpty: %2$s \nTotal: %3$s"
+trip_details_external_trip_id,"External Trip ID: %1$s"
+trip_details_shipper,"Shipper: <b>%1$s</b><br>%2$s"
+trip_history_day_range,"""30 Day Range:  %1$s - TODAY %2$s"""
+trip_information,"Trip Information"
+trip_workflow,"Trip Workflow"
+trip_workflow_infoButton,"Trip Info"
+trips_dashboard,"Trips Dashboard"
+updateAppFragmentProgressDialogText,Loading…
+updateAppTitle,"This is the update fragment"
+updateButtonText,"UPDATE NOW"
+updateMessageText,"We've added lots of new features to make your workday better.  Update now to the latest version from the Google Play Store."
+updateTitleText,"It's Time to Update"
+update_cloud_image,"Update Cloud Image"
+update_now,"UPDATE NOW"
+us_states[0],State
+us_states[10],"Florida - FL"
+us_states[11],"Georgia - GA"
+us_states[12],"Hawaii - HI"
+us_states[13],"Idaho - ID"
+us_states[14],"Illinois - IL"
+us_states[15],"Indiana - IN"
+us_states[16],"Iowa - IA"
+us_states[17],"Kansas - KS"
+us_states[18],"Kentucky - KY"
+us_states[19],"Louisiana - LA"
+us_states[1],"Alabama - AL"
+us_states[20],"Maine - ME"
+us_states[21],"Maryland - MD"
+us_states[22],"Massachusetts - MA"
+us_states[23],"Michigan - MI"
+us_states[24],"Minnesota - MN"
+us_states[25],"Mississippi - MS"
+us_states[26],"Missouri - MO"
+us_states[27],"Montana - MT"
+us_states[28],"Nebraska - NE"
+us_states[29],"Nevada - NV"
+us_states[2],"Alaska - AK"
+us_states[30],"New Hampshire - NH"
+us_states[31],"New Jersey - NJ"
+us_states[32],"New Mexico - NM"
+us_states[33],"New York - NY"
+us_states[34],"North Carolina - NC"
+us_states[35],"North Dakota - ND"
+us_states[36],"Ohio - OH"
+us_states[37],"Oklahoma - OK"
+us_states[38],"Oregon - OR"
+us_states[39],"Pennsylvania - PA"
+us_states[3],"Arizona - AZ"
+us_states[40],"Rhode Island - RI"
+us_states[41],"South Carolina - SC"
+us_states[42],"South Dakota - SD"
+us_states[43],"Tennessee - TN"
+us_states[44],"Texas - TX"
+us_states[45],"Utah - UT"
+us_states[46],"Vermont - VT"
+us_states[47],"Virginia - VA"
+us_states[48],"Washington - WA"
+us_states[49],"West Virginia - WV"
+us_states[4],"Arkansas - AR"
+us_states[50],"Wisconsin - WI"
+us_states[51],"Wyoming - WY"
+us_states[5],"California - CA"
+us_states[6],"Colorado - CO"
+us_states[7],"Connecticut - CT"
+us_states[8],"Delaware - DE"
+us_states[9],"District of Columbia - DC"
+useHRCodeLogin,"Company Code"
+utilBar::dispatchView,"Dispatch View"
+utilBar::filter::refinedBy,"Refined By"
+utilBar::filterRoutesDisplay,"%1$s/%1$s Routes"
+utilBar::filterStopsAndRoutesDisplay,"Filtering $t(filterStopsDisplay) and $t(filterRoutesDisplay)"
+utilBar::filterStopsDisplay,"%1$s/%1$s Stops"
+utilBar::filterText,Filter
+utilBar::filtering,Filtering
+utilBar::gridView,"Grid View"
+utilBar::loading,Loading...
+utilBar::mapView,"Map View"
+utilBar::search::assignedStatus,Assigned
+utilBar::search::manifestPreview,Manifest
+utilBar::search::routePreview,Route
+utilBar::search::searchBarPlaceholder,"Name, Address, PRO, REF, or Route Name"
+utilBar::search::shipmentPreview,Shipment
+utilBar::search::stagedStatus,Staged
+utilBar::search::stopPreview,Stop
+utilBar::search::unassignedStatus,Unassigned
+utilBar::sortText,Sort
+utilBar::terminalSelector::placeholder,"Search for Terminals"
+view_active_trips,"View Active Trips"
+warning_active_battery_speech,"Warning: Active talk time remaining %s"
+warning_idle_battery_speech,"Warning: Idle battery life %s"
+warning_low_power_speech,"Caution: Copilot power low, shutting down soon."
+webViewGoBackward,<
+webViewGoForward,>
+workflow_stop_information_comments_pattern,"Comments: %1$s"
+workflow_stop_information_offline_mode_text,"Forms submitted while in offline mode and have not synced to the server. Please connect to cellular."
+workflow_stop_information_reference_number_pattern,"Reference Number: %1$s"
+workflow_stop_information_skip_stop,"Skip Stop"
+workflow_stop_position,%1$d.
+workflow_trip_stops_offline_mode_text,"Forms submitted while in offline mode and have not synced to the server. Please connect to cellular."
+yes,Yes
